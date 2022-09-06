@@ -1,2 +1,5 @@
 # Exclude README
 /README.md
+
+# Exclude pack icon
+*.png

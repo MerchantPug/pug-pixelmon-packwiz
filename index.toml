@@ -184,7 +184,3 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "1168084e16debd4d3e9c8fe2be0de2deacc91d3bd31d75cd9421210f92068e13"
 metafile = true
-
-[[files]]
-file = "pugpixelmon.png"
-hash = "8f2ca8441070da45eab67505c1efca73b778fbc6bcb10120eaf10364f6064c8a"
