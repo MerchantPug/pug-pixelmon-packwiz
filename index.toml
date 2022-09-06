@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "2869256a89f1013125bbce5fc62265e47012ad09fd3b2cc53f37919bc3c8a042"
+hash = "24d958e2892df16bf19ae4457ba2147df9354ef1520e58636ac17981c2422fc5"
 metafile = true
 
 [[files]]
@@ -47,12 +47,12 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "fbcae0ce3bb0041efc3f06807cc763dd3e86e5fa6dceba048f1fa984293b44be"
+hash = "1c93cc3196b2de9f7a31d1acb1e025f592549f14d5d24cbf15a7df76eadde966"
 metafile = true
 
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
-hash = "7784bbe87c156cdc99cce7ea79cc2d7d96580f716848e33ab215a31351625a61"
+hash = "da88e91777ed4d08f2ace9436fb765fd6795e0164b2a3cc8b78bf55931846e5f"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "6ae83f538a16deb321452e65aeb195b4d2d2a4372dc6e48c0531ddee7b7fb3f3"
+hash = "b1a792e1364e4424ed5a7302a546eb87b3b4b29e6a2c7affba15f1af33658cc1"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "04a92a819f7c3dff89382baf5c5fb25c1386da08ead8510ea009aa1ccc8daf02"
+hash = "4a4742b67901396e0d0a7ea1289279ff5cee2d9d7899fbf64f43c3ab9e062f93"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/neat.pw.toml"
-hash = "0eb1a0ef1cb415e9a5d380b41e74916378c8f6e7066102b9f2e5117b54653319"
+hash = "c53432cb41053a0a9dc02aed6257c068d0aa32912bce6e07d3d320a4c5f41489"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "7eba22af68c2d979a23520b91288243f7fe02e05a095c330a84523644c76b7dd"
+hash = "a94e230282512fdd6c9d3dc174f74418b6558eaab31c427cafe17eed286a5b8f"
 metafile = true
 
 [[files]]
@@ -177,10 +177,14 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "4ee06af4be30b5a48a3ff765a8858fa53a981960bfd428a01ecce5f6f4ddd77d"
+hash = "7c40706a0ddd92c23c73f372ecdfe57256f5ebe319cb0dd58b8cba1380f8cc4a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9d3dd88869e2c7e5a49df53a18ebece5d28de473ce976d700eb59e95af8a91ca"
+hash = "1168084e16debd4d3e9c8fe2be0de2deacc91d3bd31d75cd9421210f92068e13"
 metafile = true
+
+[[files]]
+file = "pugpixelmon.png"
+hash = "8f2ca8441070da45eab67505c1efca73b778fbc6bcb10120eaf10364f6064c8a"
