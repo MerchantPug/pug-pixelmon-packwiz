@@ -1,0 +1,13 @@
+name = "Pug's Pixelmon"
+author = "MerchantPug"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bbbcbd5d33519e0d338ae1b78c853399bbecfa83d9afd4adf2115397a4307297"
+
+[versions]
+forge = "36.2.34"
+minecraft = "1.16.5"

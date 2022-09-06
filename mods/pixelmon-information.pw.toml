@@ -1,0 +1,13 @@
+name = "Pixelmon Information for Pixelmon Reforged"
+filename = "PixelmonInformation-1.16.5-9.0.0-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03b0c0a55ee6e80edd12d129261831eda337dd8c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3871454
+project-id = 314081
