@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/pixelmon/spawning.yml"
+hash = "69620388f9f8461f82ca7d4090ee4f0d781dcda6a993e37bf9d5a8a69118a541"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "348d0fb74c75f2f4e5258f654b8f20af2251d3ff1a81eb47524472bce6449431"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "e9cb64a644ae32b046525c0b18a3a1b6eb04c82c147194725a6c952e9f79c4fa"
+
+[[files]]
+file = "kubejs/config/packicon.png"
+hash = "b13048f0996267924cc07a362660e361ae5a9167cc99e556790d569cc84a9859"
+
+[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "5d796722f312da96b63ce38c6ba8a4f5ac2207e59bf3ec8d439b79e6f07f6228"
 metafile = true
