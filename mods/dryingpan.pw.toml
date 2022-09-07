@@ -1,8 +1,0 @@
-name = "Drying Pan"
-filename = "DryingPan-1.0.0+1.16.5.jar"
-side = "both"
-
-[download]
-hash-format = "sha256"
-url = "https://github.com/MerchantPug/drying-pan/releases/download/v1.0.0%2B1.16.5/DryingPan-1.0.0+1.16.5.jar"
-hash = "469804335daa3ed0bf6bce5c2127b87cda64751f4e11ffde6ec09b35f541f40d"
