@@ -46,6 +46,11 @@ hash = "ee6b63b9f81d87c75ac5115232548df5347fe9456f7ee8a80cd137043616191a"
 metafile = true
 
 [[files]]
+file = "mods/dryingpan.pw.toml"
+hash = "aac36b9aa85d2b1452c1426848eb559a68682bde70e6567bf2e30fa54e682535"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "1c93cc3196b2de9f7a31d1acb1e025f592549f14d5d24cbf15a7df76eadde966"
 metafile = true
@@ -123,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "bd1f1597a9728b71a28969e4d7c9ed24f29b3c5fc77379a0c9ce5a7a29117594"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "a94e230282512fdd6c9d3dc174f74418b6558eaab31c427cafe17eed286a5b8f"
 metafile = true
 
 [[files]]
