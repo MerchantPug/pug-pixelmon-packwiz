@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
-hash = "da88e91777ed4d08f2ace9436fb765fd6795e0164b2a3cc8b78bf55931846e5f"
+hash = "7784bbe87c156cdc99cce7ea79cc2d7d96580f716848e33ab215a31351625a61"
 metafile = true
 
 [[files]]
