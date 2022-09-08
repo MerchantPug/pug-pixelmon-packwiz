@@ -17,6 +17,10 @@ file = "kubejs/config/packicon.png"
 hash = "b13048f0996267924cc07a362660e361ae5a9167cc99e556790d569cc84a9859"
 
 [[files]]
+file = "kubejs/data/pixelmon/spawning/standard/deerling.set.json"
+hash = "e4156aa8aebfa9d8c5b58e537d6662de3b9eb6bac068221c2c0371cda4de0f90"
+
+[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "5d796722f312da96b63ce38c6ba8a4f5ac2207e59bf3ec8d439b79e6f07f6228"
 metafile = true
@@ -63,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/drying-pan.pw.toml"
-hash = "39dfc5ff2adf1ba97528034f982f420a2dd1b704294e536b8ba23f8bff918ca3"
+hash = "4d08d624a9c2fe9855727e20232b0a2de95fc2312e0ee36f27454968875678c6"
 metafile = true
 
 [[files]]
