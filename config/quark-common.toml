@@ -500,7 +500,7 @@
 [world]
 	"New Stone Types" = true
 	"Lush Underground Biome" = true
-	"Big Dungeon" = true
+	"Big Dungeon" = false
 	Speleothems = true
 	"Elder Prismarine Underground Biome" = true
 	"Blossom Trees" = true

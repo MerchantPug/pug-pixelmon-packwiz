@@ -6,7 +6,7 @@ hash = "69620388f9f8461f82ca7d4090ee4f0d781dcda6a993e37bf9d5a8a69118a541"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "348d0fb74c75f2f4e5258f654b8f20af2251d3ff1a81eb47524472bce6449431"
+hash = "07553703411b40c6dc67cb9aa18ddbfc455ca31f5b003728eb5073b3a42eff23"
 
 [[files]]
 file = "kubejs/config/client.properties"
