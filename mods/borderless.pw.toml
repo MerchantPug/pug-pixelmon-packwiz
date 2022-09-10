@@ -1,0 +1,18 @@
+name = "Borderless Window"
+filename = "BorderlessWindow-1.16.5-1.2.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "998e117ca5916933d9fdd7ee0d4b61b632b98aa0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3483843
+project-id = 378979
+
+[option]
+optional = true
+default = false
+description = "Changes Minecraft's Fullscreen setting to be Windowed Borderless."

@@ -21,6 +21,14 @@ file = "kubejs/data/pixelmon/spawning/standard/deerling.set.json"
 hash = "e4156aa8aebfa9d8c5b58e537d6662de3b9eb6bac068221c2c0371cda4de0f90"
 
 [[files]]
+file = "kubejs/server_scripts/starting_items.js"
+hash = "9b6f6eac3ec6c9b2e5a96d10d85732f071b4b3cc60466b67b4d908e63e457edb"
+
+[[files]]
+file = "local/ftbchunks/client-config.snbt"
+hash = "aafeda34115c8ea18ad974aa2addd636d7e982a9d96ae7e9266e4af9b06a1bb7"
+
+[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "5d796722f312da96b63ce38c6ba8a4f5ac2207e59bf3ec8d439b79e6f07f6228"
 metafile = true
@@ -43,6 +51,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "efeb48bf46104c4a7b7be583ecf810e2484abe15b613be18265c1e4abf008b89"
+metafile = true
+
+[[files]]
+file = "mods/borderless.pw.toml"
+hash = "7850d5571cb621b1ce1abf18726e06a169ec674d758fb8e55095d9e46ee90e26"
 metafile = true
 
 [[files]]
@@ -86,6 +99,26 @@ hash = "f7fcff62fbe87f999337648fcac1341aea4d98ebc2d6984b56ef6275aa8f9184"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "7a5ae17292f125b181f71f4d247d1e550884afe1b5bdf56245ede156d62bbb45"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "d0a16178788e4654888451ccd63ab9162f615415878c4252016f47194fc03ce5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "b87fb6069813cab76fee7fd72534d6f9412f15e77662d8444029707c54e2d51a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "ebbac41c71dd200a717260e4993be59c0d2ac6c9e9a784aa8c84a21cf27c9924"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "b1a792e1364e4424ed5a7302a546eb87b3b4b29e6a2c7affba15f1af33658cc1"
 metafile = true
@@ -123,11 +156,6 @@ metafile = true
 [[files]]
 file = "mods/pixelmon.pw.toml"
 hash = "8339a6cb89fc207ad732236d906f8fd78f03f53ab7eeda7727b0548947e4bc6e"
-metafile = true
-
-[[files]]
-file = "mods/pixelwiki.pw.toml"
-hash = "c59568fdb942244abb5dab9a0411293adff08f8c51b042ce885c22b3f5cac596"
 metafile = true
 
 [[files]]
@@ -193,14 +221,4 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "4931c4e65980ea1a95a61b35b18e7e893d59befce9c0764c387aa7773c44b15f"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "7c40706a0ddd92c23c73f372ecdfe57256f5ebe319cb0dd58b8cba1380f8cc4a"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "1168084e16debd4d3e9c8fe2be0de2deacc91d3bd31d75cd9421210f92068e13"
 metafile = true
