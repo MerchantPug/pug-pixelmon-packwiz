@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 hash-format = "sha256"
-url = "https://github.com/MerchantPug/drying-pan/releases/download/v1.0.2%2B1.16.5/DryingPan-1.0.2+1.16.5.jar"
-hash = "90c283913010b40249f21da77223bbc6e4f00423d0abe5e329614acb9d551e2d"
+url = "https://github.com/MerchantPug/drying-pan/releases/download/v1.0.3%2B1.16.5/DryingPan-1.0.3+1.16.5.jar"
+hash = "19d8e49d9a76b118ed72b7d34dfed980b46f24dee8855963659b5eb1a475391c"

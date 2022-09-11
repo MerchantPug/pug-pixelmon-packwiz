@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HHH",
+    "SIS",
+    "HHH"
+  ],
+  "key": {
+    "H": {
+      "tag": "pug:leatherlike"
+    },
+    "S": {
+      "tag": "forge:string"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "backpacked:backpack"
+  }
+}

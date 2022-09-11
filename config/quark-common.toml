@@ -1944,12 +1944,12 @@
 			G = [0.0, 1.11, 0.0]
 
 [oddities]
-	"Totem Of Holding" = true
+	"Totem Of Holding" = false
 	Backpack = true
-	Crate = true
-	"Matrix Enchanting" = true
-	Magnets = true
-	Pipes = true
+	Crate = false
+	"Matrix Enchanting" = false
+	Magnets = false
+	Pipes = false
 
 	[oddities.totem_of_holding]
 		#Set this to false to remove the behaviour where totems destroy themselves if the player dies again.
@@ -2015,7 +2015,7 @@
 		"Influence Max" = 4
 
 	[oddities.backpack]
-		"Enable Ravager Hide" = true
+		"Enable Ravager Hide" = false
 		"Base Ravager Hide Drop" = 1
 		"Extra Chance Per Looting" = 0.5
 		#Set this to true to allow the backpacks to be unequipped even with items in them

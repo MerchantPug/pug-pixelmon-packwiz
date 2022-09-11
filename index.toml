@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/backpacked-common.toml"
+hash = "d5805cff7ec4dbdfc4928eafac18ed835ab3e64c682cc6f3e08fade6769c7cb3"
+
+[[files]]
 file = "config/pixelmon/spawning.yml"
 hash = "69620388f9f8461f82ca7d4090ee4f0d781dcda6a993e37bf9d5a8a69118a541"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "07553703411b40c6dc67cb9aa18ddbfc455ca31f5b003728eb5073b3a42eff23"
+hash = "dfb2fb8ce9579cca52324ae48a3a29fa41b7ed188799b0e1c0b872727f5b74ec"
+
+[[files]]
+file = "kubejs/assets/pixelmon/lang/en_us.json"
+hash = "ecabb3336ad660bc284d89459254df7db41ab7e83cc7a3e650b33efe5f1597ce"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -17,12 +25,380 @@ file = "kubejs/config/packicon.png"
 hash = "b13048f0996267924cc07a362660e361ae5a9167cc99e556790d569cc84a9859"
 
 [[files]]
+file = "kubejs/data/backpacked/recipes/backpack.json"
+hash = "950ad1021e07b0956b16ba0c756af952aae0ce285db8f8cb849af1129d963d20"
+
+[[files]]
+file = "kubejs/data/pixelmon/config/starters.json"
+hash = "aeac3b464ccc109111033fd04ccc9414e15a2cb18faaf3bdf23dad0836ee0313"
+
+[[files]]
+file = "kubejs/data/pixelmon/drops/raiddrops.json"
+hash = "1c500093305d804cf77f6e51ea835549b901b1a3c01db74bced069bcc66df9f1"
+
+[[files]]
+file = "kubejs/data/pixelmon/moves/bug_buzz.json"
+hash = "0bc5bb8627d6710477160bc26c5601c62e6ec9fe88d8a9675e6b44948caf2f20"
+
+[[files]]
+file = "kubejs/data/pixelmon/moves/dark_void.json"
+hash = "51b72258e2a112dcf086d28a8c175b77168a5cfc15b529b790bb2400a9dc7c02"
+
+[[files]]
+file = "kubejs/data/pixelmon/moves/frost_breath.json"
+hash = "025698a00b08af208c23bea3f38797bfcb98df4b6f43e0d24c10644c1956ba94"
+
+[[files]]
+file = "kubejs/data/pixelmon/moves/magnet_bomb.json"
+hash = "91592ad66ba9c7bc7e8f6e1e3a70ce63c48b42c035232a219a2cfc87aec8e44c"
+
+[[files]]
+file = "kubejs/data/pixelmon/moves/overload.json"
+hash = "3bc5be430a88ba7d5f088c69e6d7b750638570649c32d955cd08632e8e5380b4"
+
+[[files]]
+file = "kubejs/data/pixelmon/moves/parabolic_charge.json"
+hash = "b075229e1208d211f591c66b977ce6cbf5696ead6d8017c6d4f017ef3ffdabca"
+
+[[files]]
+file = "kubejs/data/pixelmon/moves/poison_sting.json"
+hash = "5d332d5f2d97daa9b48f787e4a6dc889e431d173f8e9742fe886be5afe179333"
+
+[[files]]
+file = "kubejs/data/pixelmon/moves/signal_beam.json"
+hash = "eb6ec1d054f6536a43472b7f673cebc491bc9cec5495e4335cf8b95e5cf1b1d6"
+
+[[files]]
+file = "kubejs/data/pixelmon/moves/skitter_smack.json"
+hash = "cb582a46373a16652d0fb67700fcfe9a803e4647b5a5917682d7c20ade13dee6"
+
+[[files]]
+file = "kubejs/data/pixelmon/moves/swarm_order.json"
+hash = "30166f24ab895402667d34b6a4b963664cdef4e4203a3a4ba7ed8d2e0cfbf06a"
+
+[[files]]
+file = "kubejs/data/pixelmon/moves/taunt.json"
+hash = "47b2263490e3ec5f45c7f2d155259919cabf975ca290f5c422d7338df1d58d77"
+
+[[files]]
+file = "kubejs/data/pixelmon/moves/twineedle.json"
+hash = "a123c7af802b58b1ff9b54fbd2b103329e31ebd49080b5d59f4b428563c50337"
+
+[[files]]
+file = "kubejs/data/pixelmon/moves/x-scissor.json"
+hash = "14bf69cf8408f3b816dd017426f2ae31506bfbe8c09d9e18a8a2231cab0fe814"
+
+[[files]]
 file = "kubejs/data/pixelmon/spawning/standard/deerling.set.json"
 hash = "e4156aa8aebfa9d8c5b58e537d6662de3b9eb6bac068221c2c0371cda4de0f90"
 
 [[files]]
+file = "kubejs/data/pixelmon/species/077_ponyta.json"
+hash = "8cf0c9174f752552f508b7cd403412c58f9a839bdeb1fab67f7b6d7b1fbf8333"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/078_rapidash.json"
+hash = "964acd4ac56e12dc6e52673f2d4f915fc5cd650a80d91989e466279e10206f1c"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/081_magnemite.json"
+hash = "e29e38fe25651d0e8110675cdbd545a81fb0dc60b027a8f1be250b4ebc06a732"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/082_magneton.json"
+hash = "3171aaa68eb7be7eb0be0b7841944ff4eb3329615cb202ea78ac7017d4e375d5"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/100_voltorb.json"
+hash = "d151aa6761d0c0db26e6d958ff7466e19286ab60e481c99bfd1f8104c6434a85"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/152_chikorita.json"
+hash = "e38976a333f810f381a8fc59c3ec0a27e7216088082e9407da583d2c98ddf680"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/153_bayleef.json"
+hash = "b7e004ec054676af0082ddfd5aec48a0e38457cc4d118d67978feaf1ab910b39"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/154_meganium.json"
+hash = "7c37e3fee6047bf1659871406cd5f1661a07c7b45e1946535ed337c592460b43"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/165_ledyba.json"
+hash = "1e3e16581b54d2392c993fa8c0ae2a55cc3d2e162811c4431071b4b4cfa7ed1d"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/166_ledian.json"
+hash = "a95ce8799f78fc5d6997fcaa57b18ea2a7925e13c8768fc6f2376aa1fdbe0dff"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/168_ariados.json"
+hash = "df11efcfe578068ecce73a9d1385dfc90b07002938361271f2b22aa6662d4581"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/192_sunflora.json"
+hash = "ec469c7a585d3c5f1bdf95d1004e0c05e5714da4734466b6a8cd7e49b1c9c878"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/195_quagsire.json"
+hash = "9ff3d6421d84407d146007755f55a76a89d8b9605acfcca09e9f495d8ca1a5d5"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/199_slowking.json"
+hash = "7f944c9a15bd91fde33988dfd6c5f3e3ff79ad58ebe3e17ee41da5c34398cf55"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/200_misdreavus.json"
+hash = "41e6765dfc5506e5b40e34f5e976906df1eae665ec44c003ca1fbaf876cc1690"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/225_delibird.json"
+hash = "e0c647ef5633132a6c0d61365298324ebe3515f0a420da1f526231ac2e965162"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/265_wurmple.json"
+hash = "0b788e34c69589f1f2a536f66685e1766fd0cadbb73dc92b01cdddefd4b618c5"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/266_silcoon.json"
+hash = "2373a7a69cd4a7df0b48579dcd667c5ad740dcd4d15077e47451e60fe61277bc"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/267_beautifly.json"
+hash = "6c196595896be98c1f733b71e9557b9b018872194f8a54adc13efcad5c08e1f1"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/268_cascoon.json"
+hash = "f20b1522ac8f681a6673cb25ef4cd518bf02580db283d77dde9ce85b2c633f34"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/269_dustox.json"
+hash = "a9496433dc48a946cd53c9c5c169a7c1d59f0a8fba0b30f95e5781c79434cdbb"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/299_nosepass.json"
+hash = "50fb54aa02f6fd34b1952b6f8e15c0049417f9c63e9b02ea25ee2058d811a788"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/327_spinda.json"
+hash = "cf38045ebf0bf4103b93cd8d9192832bc3937e6a5f9bc99ba3d1fb53d85c13d6"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/329_vibrava.json"
+hash = "8b6bc3d9974124c1644929d4578f5cdbd53772cda90e007494d561fc562b7188"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/330_flygon.json"
+hash = "f13ad45aeae2980bb9a40c8b9a47d7c273e555c3c7c8abb51ba32564a0058366"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/331_cacnea.json"
+hash = "a4b1fa02e1680bfd2fd5a589ba3b4f18b8d069069b4aa0710587d75a92afa676"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/332_cacturne.json"
+hash = "f4932ca3fa1caa75c8c5dd49bf4bb7915f795a16d9c869bce67af4a42350686f"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/335_zangoose.json"
+hash = "33827af9513696d08203c19706aeca7ea334ff0b536dbc83f12db64c32afc8a3"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/336_seviper.json"
+hash = "eafaf76aea8f2dd22f752fd9f0a75517adbae18803a738709054632b324b003d"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/345_lileep.json"
+hash = "8a957332911abf163c4e98934bf677cc9312b487ef9134b8d9bb9595efe13c4d"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/346_cradily.json"
+hash = "3384083cebb747e2253c428e3a32c95147db28269e71eff2e661043d0f77badc"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/351_castform.json"
+hash = "7b9dc1df885a3db65b89c0a5ef2052ce857c90921cf5e4994ac93a825a5f8950"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/352_kecleon.json"
+hash = "7a9e90515a8da08516ddb865059480d7740875b81d307ea35d63cb46b9506cdb"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/359_absol.json"
+hash = "71dd2760c723917480d9c36766b9106ebc115ec9f64d27952c21607ffc35a180"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/362_glalie.json"
+hash = "90997b3608da09b03663fabb2642b03d6407383279ac0bbc73c146f29c9dfebc"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/404_luxio.json"
+hash = "3be8843582ae8668ff8043d26c362a8d44ec136d3ea3c4c01210a7e74e06cbc6"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/405_luxray.json"
+hash = "86e32bdbd439c00757cada0a5d490dfd0c26af51525ac7ccdd2457feaf9d364f"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/408_cranidos.json"
+hash = "68e483eee5d67dd84cb6c4accc933aff50a3623c7c78aae60abcf17f16a9aa84"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/409_rampardos.json"
+hash = "68560dfd1987446ffb872ef0b85be72fa78f9335300dae8c455fb6c9c696beea"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/416_vespiquen.json"
+hash = "ef46fc700c67268771156c8c57f25fc3817d3a121ee22772101efd2a4516a791"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/429_mismagius.json"
+hash = "dbaf5e1e7458e3fe93be2448e1d67fa0726a4c40cf6ff7d22daa9c12b292b45d"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/455_carnivine.json"
+hash = "11172570f8752d3dd69012ec4edb35eb6a25988166e44a01da088a0fa148420b"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/456_finneon.json"
+hash = "4feb58c153eb78dee1824f2cea8687b6288620db8b9250f2cabff3c814c7dfae"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/457_lumineon.json"
+hash = "c8915dc21af6eab27a090b6d7e4e2db6d915d9acdc2a59bda06da6189c7d353c"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/462_magnezone.json"
+hash = "8e87eb4790eceb826cd0ac44f2bd5e2e3eb31a747d9e4e92f2e8d532d5bb722f"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/466_electivire.json"
+hash = "8bad5de42d0020a973c11724c09b6653710080251b176f8d44b91b4751794916"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/471_glaceon.json"
+hash = "956f816d69560d32119cde239abf0de5753d36e10215e743889b829292d6dddb"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/476_probopass.json"
+hash = "3b9eb50cb69facaeeb05ae344f3905c20b6012bcd645530138e9337d3848229a"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/477_dusknoir.json"
+hash = "f8b839d816a7db3724b9b001dc6a1e88b8d84c559a09f20cef27489a90589aeb"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/478_froslass.json"
+hash = "801a49c084e7fe95f467689137be0e8665d28b86aaab11505281eb44ee3878cd"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/486_regigigas.json"
+hash = "d9608d5d32a475b8746a7f1da3dca0abb9658971b65b5a5ee40591f7f083f940"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/504_patrat.json"
+hash = "9e110f54616fbfc0da2efa763ea53443dafd83ef0fd5400f2a2990bc7c590af3"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/505_watchog.json"
+hash = "f0fee6a3de002825fd1c1de497f5b0b207b3145f7d99cf9e243ac67e883676d8"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/549_lilligant.json"
+hash = "7da879f01128e36fa020294e26ed5df279287cb266f1ed3ea3ed6d47aba54895"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/594_alomomola.json"
+hash = "0bdd819c0fce0014a133cda3f2928fe48336b7d0ddec8bf7f06efe088dd6a08e"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/595_joltik.json"
+hash = "b88fae44ea35fa03ce5b15282851036e6c68a885c792ee3a0b892dbb43f6bfb6"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/596_galvantula.json"
+hash = "1712ca7448b307f1c44860db82274c0a053bf2ca45dbc8613f3434b6be19d006"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/615_cryogonal.json"
+hash = "e3549121f35ec621d7ecc6d1a0ff8f7fdd3faa104a55b9503f958d78b2ba7d04"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/690_skrelp.json"
+hash = "8bd5a19f80f2a40a43a2cca7e125397ddae70d90b80dfe708347faa3d7ccf2b9"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/691_dragalge.json"
+hash = "152ac2e1ea23905b2a5a38e2b11e004865f81ea8700595bf101ede89c9c19827"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/694_helioptile.json"
+hash = "a8cce074c7a5080070140aaeada740040c646d4249f7b5f1ab2270c056244aed"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/695_heliolisk.json"
+hash = "94b1b2d024bed9efbb14e2b687b97f66d9c6786b5083c8906cf9ff40dfe29674"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/698_amaura.json"
+hash = "9a4ef83bd37a941744c71319416efbd8931719679f7a7283b5c683343b845d07"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/699_aurorus.json"
+hash = "4427a45551e8cff8b28b096aae124ba3c210e39244b3795ed44f81ad500a683a"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/713_avalugg.json"
+hash = "19c175473699ef8265c3d2633c9b1050c891d0babe93e8f0841f2ccea747f478"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/754_lurantis.json"
+hash = "c46d2043e7ac394b0633cf310afc34dda87d9e205a69bc6e29fe028857eb0015"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/775_komala.json"
+hash = "4df72501cb001df200f52a93b5875186b4e1a830b62f4163b3873e1bca83ce06"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/825_dottler.json"
+hash = "4c331e9a4218174ba78e992009ad1409977968c82793a2d94845dfe6e7badf1f"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/826_orbeetle.json"
+hash = "a1858477d0f03661c93d482f59457c0e2c606c5111102315286574dc3c461c5e"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/830_eldegoss.json"
+hash = "82c97cdaf0528cb9af32da4cb787c49aa4bfcc96d405fa6b34db1f8b15e5db43"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/852_clobbopus.json"
+hash = "f1580f7980f3a36cba55f5c7aa8a5d08661f97ec6d025f4a31de67468293c86f"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/853_grapploct.json"
+hash = "356efa9f16d33f37834d1dcc91acdb7cc4a50d736d1e706457f8a35d90632d30"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/864_cursola.json"
+hash = "52db8a7d0af6eae0d2fe2d566dfa391fc1b433742a6315489b399730a0bc6dfd"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/867_runerigus.json"
+hash = "fccf0f1ce2003250d946a2717f4f991c5e28af94d631df265d5b132a3a5d3184"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/873_frosmoth.json"
+hash = "f9d0d247a57a5808c883fab24bbddbf5dd8b6803e38a5744612ca0bdf690ee3b"
+
+[[files]]
+file = "kubejs/data/pug/tags/items/leatherlike.json"
+hash = "383c108862d3d03b2008619420a439de8bc8fcc05295db28ea933a71026d7ca1"
+
+[[files]]
 file = "kubejs/server_scripts/starting_items.js"
-hash = "9b6f6eac3ec6c9b2e5a96d10d85732f071b4b3cc60466b67b4d908e63e457edb"
+hash = "09d4018fb9d6ad5a876b4e2e28b232c5112a4bea9b6a9059a33ad9787f160ba1"
 
 [[files]]
 file = "local/ftbchunks/client-config.snbt"
@@ -80,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/drying-pan.pw.toml"
-hash = "4d08d624a9c2fe9855727e20232b0a2de95fc2312e0ee36f27454968875678c6"
+hash = "ff482f20a7620b8e8e25d08dcf8d678e97e4d167dd96dfd972a5e06ceaf021ea"
 metafile = true
 
 [[files]]
@@ -91,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "7784bbe87c156cdc99cce7ea79cc2d7d96580f716848e33ab215a31351625a61"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "62ce1c71f37c4b66e0a4b160c9815762017b4862f96523f04029dd8d72bb4f13"
 metafile = true
 
 [[files]]
@@ -131,6 +512,56 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "03b95396f886a22987e8fee18d1b9855e4f06c09d166e180e3e0339665aeb36b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "3075353eb60a5f28494dabc3c01aa4852f8369443bb3a27887b840b2214a471e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "345dcbe876795edb7345160068582fcf8ab4fc87b81243c39cbcf6ef003d925a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "006aa421d53c53d6e9ccc562965f5cec6e381c8eb19663b2966e5281fefa6f07"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "60ebd720a15bcf1dd93d02cf18f177b4d5cff8345c9c254496be4d2336542344"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "8b9f0ebedec30dcfe808c9789feda023a3df04ea8ba5a69a5bfd99facf91179e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "b7d15dd56791e4caf93b1fc22bc7184cbdf6ab496a8e899a8fd9a4f9c4d99934"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "cfdbd5fe24952562d99647916967c29f5a7cb1b7f72566883227b0301eee2698"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "92bce5e3c99716b9754cd79b82dcb083812578f39199a11aa16b464ef3fbf91d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "3642425e2ce6cb3c070d316f84ce4bc1e2ecd7fb3e2b0c74e9f2271ce757e25f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "c11163e1b8b1dd8b01962d83f4240e79146b7bcf0f7e53a8be7de853239230f4"
 metafile = true
 
 [[files]]
@@ -179,6 +610,11 @@ hash = "bd1f1597a9728b71a28969e4d7c9ed24f29b3c5fc77379a0c9ce5a7a29117594"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "a94e230282512fdd6c9d3dc174f74418b6558eaab31c427cafe17eed286a5b8f"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "b4f9abd219e3affcbfd6d592967ce289c5461c404b0c27a5a97c068205ed4c9b"
 metafile = true
@@ -186,16 +622,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "0063f7a56b0849435d9e6f287c18c9318d4b16528e224ba0553a1ea8b01c703c"
-metafile = true
-
-[[files]]
-file = "mods/snow-real-magic.pw.toml"
-hash = "0424f3ff02d0735a6c815b04c79a1e26c83ded0e12e548e9ff6de44427052a70"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-hash = "e628ae47b8c47b33c88b10097ceab9462643c7993ad89d1f22d2a82a6aabfa7f"
 metafile = true
 
 [[files]]
@@ -221,4 +647,9 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "4931c4e65980ea1a95a61b35b18e7e893d59befce9c0764c387aa7773c44b15f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pixel-cries-for-pixelmon.pw.toml"
+hash = "fdb295917d773fd51cbbd8a0c6d3fbe6929f6b39f1e585a1651acf5f90a97d4f"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Pixel Cries for Generations + Reforged"
+filename = "pixel-cries-v6_reforged.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "3f80e14b4622604ea5c690157c25ffd0a3ef34cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3834923
+project-id = 391697
