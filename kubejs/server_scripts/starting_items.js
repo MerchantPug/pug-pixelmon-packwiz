@@ -7,6 +7,6 @@ onEvent('player.logged_in', event => {
     // Give some items to player
     event.player.give('5x pixelmon:poke_ball')
     event.player.give('pixelmon:potion')
-    event.player.give('quark:backpack')
+    event.player.give('backpacked:backpack')
   }
 })

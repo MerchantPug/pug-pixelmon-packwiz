@@ -398,7 +398,7 @@ hash = "383c108862d3d03b2008619420a439de8bc8fcc05295db28ea933a71026d7ca1"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
-hash = "09d4018fb9d6ad5a876b4e2e28b232c5112a4bea9b6a9059a33ad9787f160ba1"
+hash = "685a0e914a197a844faade473be9a9add02f208012f030fe0e63d1246c97f992"
 
 [[files]]
 file = "local/ftbchunks/client-config.snbt"
