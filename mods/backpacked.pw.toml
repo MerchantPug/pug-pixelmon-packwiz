@@ -1,0 +1,13 @@
+name = "Backpacked"
+filename = "backpacked-2.1.8-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "040bc7952e1af3c93fcb974892ff4fc9ff77f67c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3834880
+project-id = 352835

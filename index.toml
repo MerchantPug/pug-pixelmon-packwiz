@@ -425,6 +425,11 @@ hash = "9b2088287d126347cb44a539b7104462e0a4aaa0b871577ca13902398f174f52"
 metafile = true
 
 [[files]]
+file = "mods/backpacked.pw.toml"
+hash = "04c89565203d996e92e5b2629a8151d47620531ebc70bd14b9097470612fde69"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "efeb48bf46104c4a7b7be583ecf810e2484abe15b613be18265c1e4abf008b89"
 metafile = true
