@@ -137,6 +137,18 @@ file = "kubejs/data/pixelmon/species/168_ariados.json"
 hash = "df11efcfe578068ecce73a9d1385dfc90b07002938361271f2b22aa6662d4581"
 
 [[files]]
+file = "kubejs/data/pixelmon/species/179_mareep.json"
+hash = "905f2f12da52a2efbbed60223a089c1987549ef335c5653765ea1d40e054230d"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/180_flaaffy.json"
+hash = "2a3a980b1ee116ec840e6d89b260bafe39bc283ba16ae1cdecacf595924f664d"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/181_ampharos.json"
+hash = "df028a0db5e8a66004a74ac06210d262e4fda772ca8305de7f93ecda16b0a738"
+
+[[files]]
 file = "kubejs/data/pixelmon/species/192_sunflora.json"
 hash = "ec469c7a585d3c5f1bdf95d1004e0c05e5714da4734466b6a8cd7e49b1c9c878"
 
