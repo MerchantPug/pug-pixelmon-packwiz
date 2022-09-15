@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/drying-pan.pw.toml"
-hash = "e016570f088cd962bdffdfcb7a9e86b4f0fc6d1f0febc342d7f68b95bf754610"
+hash = "5b61830ba1b2307abc992351ca497792500193e53be4c95946ad748db26a71b3"
 metafile = true
 
 [[files]]
