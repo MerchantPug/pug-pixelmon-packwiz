@@ -582,11 +582,6 @@ hash = "c11163e1b8b1dd8b01962d83f4240e79146b7bcf0f7e53a8be7de853239230f4"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "4a4742b67901396e0d0a7ea1289279ff5cee2d9d7899fbf64f43c3ab9e062f93"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "cca1d003d1f4ff138be6a04cedac1f97e1f4a85862d5958d97aed82e951a78ff"
 metafile = true
