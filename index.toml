@@ -414,7 +414,7 @@ hash = "685a0e914a197a844faade473be9a9add02f208012f030fe0e63d1246c97f992"
 
 [[files]]
 file = "local/ftbchunks/client-config.snbt"
-hash = "aafeda34115c8ea18ad974aa2addd636d7e982a9d96ae7e9266e4af9b06a1bb7"
+hash = "d9e8c709de083aad518b1cea023e18acaf27f974f29ce356a999cd3def5990fe"
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"

@@ -120,7 +120,7 @@
 		
 		# Show entities on minimap
 		# Default: true
-		entities: false
+		entities: true
 		
 		# Show entity heads on minimap
 		# Default: true
@@ -128,7 +128,7 @@
 		
 		# Entities in minimap will be larger
 		# Default: false
-		large_entities: false
+		large_entities: true
 		
 		# Minimap will not rotate
 		# Default: true
@@ -136,7 +136,7 @@
 		
 		# Show player heads on minimap
 		# Default: true
-		player_heads: false
+		player_heads: true
 		
 		# Enables minimap to show up in corner
 		# Default: "top_right"
