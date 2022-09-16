@@ -262,7 +262,7 @@ hash = "68560dfd1987446ffb872ef0b85be72fa78f9335300dae8c455fb6c9c696beea"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/416_vespiquen.json"
-hash = "ef46fc700c67268771156c8c57f25fc3817d3a121ee22772101efd2a4516a791"
+hash = "df12772b9f266ba5e96b531cb35777177166bb6536f5e69890e922197177cdf3"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/429_mismagius.json"
@@ -479,6 +479,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "1c93cc3196b2de9f7a31d1acb1e025f592549f14d5d24cbf15a7df76eadde966"
+metafile = true
+
+[[files]]
+file = "mods/fakename.pw.toml"
+hash = "14472f2831df202fdee4fc1bb1cb28d94571164eefd3485649d246ee9f8cf78a"
 metafile = true
 
 [[files]]

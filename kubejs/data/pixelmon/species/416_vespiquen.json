@@ -88,7 +88,8 @@
             "attacks": [
               "Attack Order",
               "Defend Order",
-              "Heal Order"
+              "Heal Order",
+              "Swarm Order"
             ]
           },
           {
@@ -365,7 +366,7 @@
         "defense": 102,
         "specialAttack": 80,
         "specialDefense": 102,
-        "speed": 40
+        "speed": 20
       },
       "tags": [],
       "spawn": {
