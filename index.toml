@@ -6,7 +6,7 @@ hash = "d5805cff7ec4dbdfc4928eafac18ed835ab3e64c682cc6f3e08fade6769c7cb3"
 
 [[files]]
 file = "config/pixelmon/spawning.yml"
-hash = "69620388f9f8461f82ca7d4090ee4f0d781dcda6a993e37bf9d5a8a69118a541"
+hash = "54a397c4e910ccedf2297612aa720aa642a213ebe03535ad35c7a9f6dbaaecac"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -14,7 +14,7 @@ hash = "dfb2fb8ce9579cca52324ae48a3a29fa41b7ed188799b0e1c0b872727f5b74ec"
 
 [[files]]
 file = "kubejs/assets/pixelmon/lang/en_us.json"
-hash = "ecabb3336ad660bc284d89459254df7db41ab7e83cc7a3e650b33efe5f1597ce"
+hash = "efb18dd1dc7eab6be41de7342a38ba95944b6f0e52c331ca0425c336be704cc5"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/pixelmon.pw.toml"
-hash = "8339a6cb89fc207ad732236d906f8fd78f03f53ab7eeda7727b0548947e4bc6e"
+hash = "0dd05f92140f1a21b23315864979ed0e539872e55d9b0d6ec32484bd29565adf"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Pixelmon"
-filename = "Pixelmon-1.16.5-9.0.8-universal.jar"
+filename = "Pixelmon-1.16.5-9.0.10-universal.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/59ZceYlU/versions/3QAYSgTy/Pixelmon-1.16.5-9.0.8-universal.jar"
+url = "https://cdn.modrinth.com/data/59ZceYlU/versions/EwLzUvgz/Pixelmon-1.16.5-9.0.10-universal.jar"
 hash-format = "sha1"
-hash = "e7abbdde01d8966b521b923eefe8ce9048e22f92"
+hash = "e6033f0c2d6f9b76e408ba8526006ff10b0c6aac"
 
 [update]
 [update.modrinth]
 mod-id = "59ZceYlU"
-version = "3QAYSgTy"
+version = "EwLzUvgz"

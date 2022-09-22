@@ -3,14 +3,14 @@ shiny-rate: 4096.0
 ultra-space-shiny-rate-multiplier: 0.5
 hidden-ability-rate: 150.0
 ultra-space-hidden-ability-multiplier: 0.5
-legendary-spawn-ticks: 25000
+legendary-spawn-ticks: 18750
 legendary-spawn-chance: 0.30000001192092896
 spawn-ticks-player-multiplier: 0.009999999776482582
 spawn-levels-closer-to-player-levels: true
 spawn-levels-increase-in-caves: true
 cave-max-multiplier: 4
 transform-to-ditto-on-catch: 0.001
-meltan-spawn-chance: 1536
+meltan-spawn-chance: 1024
 meltan-transform-chance: 0.0
 can-transform-to-ditto-on-catch:
 - Pidgey
@@ -30,7 +30,7 @@ can-transform-to-ditto-on-catch:
 gigantamax-factor-rate: 512.0
 ultra-space-gigantamax-factor-modifier: -1.0
 allow-legendary-spawn: true
-legendary-despawn-ticks: 6000
+legendary-despawn-ticks: 12000
 display-legendary-global-message: true
 do-legendary-raid-event: true
 use-recent-level-moves: false
