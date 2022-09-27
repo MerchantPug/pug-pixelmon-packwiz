@@ -1,126 +1,101 @@
 {
-  "name": "Electivire",
-  "dex": 466,
+  "name": "Dusclops",
+  "dex": 356,
   "defaultForms": [
     ""
   ],
   "forms": [
     {
       "name": "",
-      "experienceGroup": "MEDIUM_FAST",
+      "experienceGroup": "FAST",
       "dimensions": {
-        "height": 1.9,
+        "height": 1.6,
         "width": 1.4,
         "length": 1,
-        "eyeHeight": 1.9,
-        "hoverHeight": 1.9
+        "eyeHeight": 1.6,
+        "hoverHeight": 1.6
       },
       "moves": {
         "levelUpMoves": [
           {
             "level": 0,
             "attacks": [
-              "Charge",
+              "Astonish",
+              "Bind",
+              "Disable",
+              "Fire Punch",
+              "Gravity",
+              "Ice Punch",
               "Leer",
-              "Quick Attack",
-              "Thunder Shock",
-              "Bullet Punch"
+              "Shadow Punch",
+              "Shadow Sneak",
+              "Thunder Punch"
             ]
           },
           {
             "level": 12,
             "attacks": [
-              "Swift"
+              "Confuse Ray"
             ]
           },
           {
             "level": 16,
             "attacks": [
-              "Shock Wave"
+              "Night Shade"
             ]
           },
           {
             "level": 20,
             "attacks": [
-              "Thunder Wave"
+              "Payback"
             ]
           },
           {
             "level": 24,
             "attacks": [
-              "Screech"
+              "Will-O-Wisp"
             ]
           },
           {
             "level": 28,
             "attacks": [
-              "Thunder Punch"
+              "Mean Look"
             ]
           },
           {
-            "level": 34,
+            "level": 32,
             "attacks": [
-              "Discharge"
+              "Hex"
             ]
           },
           {
-            "level": 40,
+            "level": 36,
             "attacks": [
-              "Low Kick"
+              "Curse"
             ]
           },
           {
-            "level": 43,
+            "level": 42,
             "attacks": [
-              "Mach Punch"
+              "Shadow Ball"
             ]
           },
           {
-            "level": 46,
+            "level": 48,
             "attacks": [
-              "Thunderbolt"
-            ]
-          },
-          {
-            "level": 49,
-            "attacks": [
-              "Close Combat"
-            ]
-          },
-          {
-            "level": 52,
-            "attacks": [
-              "Light Screen"
-            ]
-          },
-          {
-            "level": 58,
-            "attacks": [
-              "Thunder"
-            ]
-          },
-          {
-            "level": 64,
-            "attacks": [
-              "Giga Impact"
+              "Future Sight"
             ]
           }
         ],
         "tutorMoves": [
-          "Rising Voltage"
+          "Poltergeist",
+          "Skitter Smack"
         ],
         "eggMoves": [
-          "Barrier",
-          "Cross Chop",
-          "Dynamic Punch",
-          "Feint",
-          "Fire Punch",
-          "Focus Punch",
-          "Hammer Arm",
-          "Ice Punch",
-          "Karate Chop",
-          "Meditate",
-          "Rolling Kick"
+          "Grudge",
+          "Haze",
+          "Memento",
+          "Pain Split"
         ],
         "tmMoves8": [
           "Mega Punch",
@@ -130,241 +105,240 @@
           "Thunder Punch",
           "Hyper Beam",
           "Giga Impact",
-          "Thunder Wave",
-          "Dig",
-          "Screech",
-          "Light Screen",
           "Rest",
           "Rock Slide",
           "Thief",
           "Snore",
           "Protect",
+          "Icy Wind",
           "Attract",
           "Rain Dance",
+          "Sunny Day",
+          "Will-O-Wisp",
           "Facade",
-          "Swift",
           "Helping Hand",
+          "Revenge",
           "Brick Break",
-          "Weather Ball",
+          "Imprison",
           "Rock Tomb",
+          "Payback",
           "Fling",
-          "Low Sweep",
+          "Trick Room",
+          "Wonder Room",
           "Round",
-          "Volt Switch",
-          "Bulldoze",
-          "Electroweb",
-          "Electric Terrain",
-          "Stomping Tantrum"
+          "Hex",
+          "Bulldoze"
         ],
         "trMoves": [
           "Body Slam",
-          "Flamethrower",
-          "Low Kick",
-          "Thunderbolt",
-          "Thunder",
+          "Ice Beam",
+          "Blizzard",
           "Earthquake",
           "Psychic",
+          "Metronome",
           "Substitute",
           "Endure",
           "Sleep Talk",
-          "Iron Tail",
-          "Uproar",
+          "Shadow Ball",
+          "Future Sight",
           "Taunt",
-          "Focus Blast",
-          "Electro Ball",
-          "Wild Charge",
-          "Darkest Lariat"
+          "Trick",
+          "Skill Swap",
+          "Calm Mind",
+          "Dark Pulse",
+          "Ally Switch"
         ],
         "hmMoves": [],
         "transferMoves": [
-          "Barrier",
-          "Bide",
           "Captivate",
           "Charge Beam",
           "Confide",
           "Counter",
-          "Covet",
-          "Curse",
-          "Detect",
+          "Destiny Bond",
           "Double Team",
           "Double-Edge",
-          "Dual Chop",
+          "Dream Eater",
+          "Dynamic Punch",
+          "Embargo",
+          "Feint Attack",
           "Flash",
-          "Follow Me",
+          "Focus Punch",
+          "Foresight",
           "Frustration",
           "Headbutt",
           "Hidden Power",
-          "Ion Deluge",
-          "Karate Chop",
-          "Magnet Rise",
-          "Meditate",
-          "Metronome",
+          "Infestation",
           "Mimic",
           "Mud-Slap",
           "Natural Gift",
+          "Nightmare",
+          "Ominous Wind",
           "Power-Up Punch",
-          "Psywave",
-          "Rage",
-          "Reflect",
+          "Psych Up",
+          "Pursuit",
           "Return",
           "Rock Smash",
-          "Rolling Kick",
           "Secret Power",
           "Seismic Toss",
-          "Signal Beam",
-          "Skull Bash",
+          "Snatch",
+          "Spite",
           "Strength",
-          "Submission",
+          "Sucker Punch",
           "Swagger",
-          "Take Down",
-          "Teleport",
+          "Telekinesis",
           "Torment",
-          "Toxic",
-          "Zap Cannon"
+          "Toxic"
         ],
         "tmMoves7": [
+          "Calm Mind",
           "Toxic",
           "Hidden Power",
+          "Sunny Day",
           "Taunt",
+          "Ice Beam",
+          "Blizzard",
           "Hyper Beam",
-          "Light Screen",
           "Protect",
           "Rain Dance",
           "Frustration",
-          "Thunderbolt",
-          "Thunder",
           "Earthquake",
           "Return",
           "Psychic",
+          "Shadow Ball",
           "Brick Break",
           "Double Team",
-          "Flamethrower",
           "Rock Tomb",
           "Torment",
           "Facade",
           "Rest",
           "Attract",
           "Thief",
-          "Low Sweep",
           "Round",
-          "Focus Blast",
           "Fling",
           "Charge Beam",
+          "Will-O-Wisp",
+          "Embargo",
+          "Payback",
           "Giga Impact",
-          "Volt Switch",
-          "Thunder Wave",
+          "Psych Up",
           "Bulldoze",
           "Rock Slide",
+          "Infestation",
+          "Dream Eater",
           "Swagger",
           "Sleep Talk",
           "Substitute",
-          "Wild Charge",
+          "Trick Room",
+          "Dark Pulse",
           "Confide"
         ],
         "tmMoves6": [
+          "Calm Mind",
           "Toxic",
           "Hidden Power",
+          "Sunny Day",
           "Taunt",
+          "Ice Beam",
+          "Blizzard",
           "Hyper Beam",
-          "Light Screen",
           "Protect",
           "Rain Dance",
           "Frustration",
-          "Thunderbolt",
-          "Thunder",
           "Earthquake",
           "Return",
-          "Dig",
           "Psychic",
+          "Shadow Ball",
           "Brick Break",
           "Double Team",
-          "Flamethrower",
           "Rock Tomb",
           "Torment",
           "Facade",
           "Rest",
           "Attract",
           "Thief",
-          "Low Sweep",
           "Round",
-          "Focus Blast",
           "Fling",
           "Charge Beam",
+          "Will-O-Wisp",
+          "Embargo",
+          "Payback",
           "Giga Impact",
           "Flash",
-          "Volt Switch",
-          "Thunder Wave",
+          "Psych Up",
           "Bulldoze",
           "Rock Slide",
+          "Infestation",
+          "Dream Eater",
           "Swagger",
           "Sleep Talk",
           "Substitute",
-          "Wild Charge",
+          "Trick Room",
           "Secret Power",
+          "Dark Pulse",
           "Power-Up Punch",
           "Confide"
         ],
         "tmMoves5": [
+          "Calm Mind",
           "Toxic",
           "Hidden Power",
+          "Sunny Day",
           "Taunt",
+          "Ice Beam",
+          "Blizzard",
           "Hyper Beam",
-          "Light Screen",
           "Protect",
           "Rain Dance",
+          "Telekinesis",
           "Frustration",
-          "Thunderbolt",
-          "Thunder",
           "Earthquake",
           "Return",
-          "Dig",
           "Psychic",
+          "Shadow Ball",
           "Brick Break",
           "Double Team",
-          "Flamethrower",
           "Rock Tomb",
           "Torment",
           "Facade",
           "Rest",
           "Attract",
           "Thief",
-          "Low Sweep",
           "Round",
-          "Focus Blast",
           "Fling",
           "Charge Beam",
+          "Will-O-Wisp",
+          "Embargo",
+          "Payback",
           "Giga Impact",
           "Flash",
-          "Volt Switch",
-          "Thunder Wave",
+          "Psych Up",
           "Bulldoze",
           "Rock Slide",
+          "Dream Eater",
           "Swagger",
           "Substitute",
-          "Wild Charge",
+          "Trick Room",
           "Rock Smash"
         ],
         "tmMoves4": [
           "Focus Punch",
+          "Calm Mind",
           "Toxic",
           "Hidden Power",
+          "Sunny Day",
           "Taunt",
+          "Ice Beam",
+          "Blizzard",
           "Hyper Beam",
-          "Light Screen",
           "Protect",
           "Rain Dance",
           "Frustration",
-          "Iron Tail",
-          "Thunderbolt",
-          "Thunder",
           "Earthquake",
           "Return",
-          "Dig",
           "Psychic",
+          "Shadow Ball",
           "Brick Break",
           "Double Team",
-          "Shock Wave",
-          "Flamethrower",
           "Rock Tomb",
           "Torment",
           "Facade",
@@ -372,38 +346,84 @@
           "Rest",
           "Attract",
           "Thief",
-          "Focus Blast",
+          "Skill Swap",
+          "Snatch",
           "Fling",
           "Charge Beam",
           "Endure",
+          "Will-O-Wisp",
+          "Embargo",
+          "Payback",
           "Giga Impact",
           "Flash",
-          "Thunder Wave",
+          "Psych Up",
           "Captivate",
+          "Dark Pulse",
           "Rock Slide",
           "Sleep Talk",
           "Natural Gift",
+          "Dream Eater",
           "Swagger",
-          "Substitute"
+          "Substitute",
+          "Trick Room"
         ],
-        "tmMoves3": [],
+        "tmMoves3": [
+          "Focus Punch",
+          "Calm Mind",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Taunt",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Earthquake",
+          "Return",
+          "Psychic",
+          "Shadow Ball",
+          "Double Team",
+          "Rock Tomb",
+          "Torment",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Thief",
+          "Skill Swap",
+          "Snatch"
+        ],
         "tmMoves2": [],
         "tmMoves1": [],
         "tmMoves": []
       },
       "abilities": {
         "abilities": [
-          "VoltAbsorb"
+          "Pressure"
         ],
         "hiddenAbilities": [
-          "IronFist"
+          "Frisk"
         ]
       },
       "movement": {
-        "rideable": false,
+        "rideable": true,
         "canFly": false,
         "canSurf": false,
-        "canRideShoulder": false
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -1.1,
+            "z": -0.55
+          },
+          "moving": {
+            "x": 0.0,
+            "y": -1.1,
+            "z": -0.55
+          }
+        }
       },
       "aggression": {
         "timid": 80,
@@ -411,19 +431,19 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 75,
-        "attack": 123,
-        "defense": 67,
-        "specialAttack": 95,
-        "specialDefense": 85,
-        "speed": 95
+        "hp": 40,
+        "attack": 70,
+        "defense": 130,
+        "specialAttack": 60,
+        "specialDefense": 130,
+        "speed": 25
       },
       "tags": [],
       "spawn": {
-        "baseExp": 199,
-        "baseFriendship": 70,
-        "spawnLevel": 30,
-        "spawnLevelRange": 20,
+        "baseExp": 179,
+        "baseFriendship": 35,
+        "spawnLevel": 38,
+        "spawnLevelRange": 13,
         "spawnLocations": [
           "LAND"
         ]
@@ -438,44 +458,37 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/466_electivire/all/base/none/texture.png",
-              "sprite": "pixelmon:pokemon/466_electivire/all/base/none/sprite.png",
+              "texture": "pixelmon:pokemon/356_dusclops/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/356_dusclops/all/base/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/466_electivire/all/base/none/model.pqc"
+                  "pixelmon:pokemon/356_dusclops/all/base/none/model.pqc"
                 ]
               },
               "sounds": [
-                "pixelmon.mob.electivire"
+                "pixelmon.mob.dusclops",
+                "pixelmon.mob.dusclops"
               ]
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/466_electivire/all/base/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/466_electivire/all/base/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/356_dusclops/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/356_dusclops/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
-            },
-            {
-              "name": "strike",
-              "texture": "pixelmon:pokemon/466_electivire/all/base/strike/texture.png",
-              "sprite": "pixelmon:pokemon/466_electivire/all/base/strike/sprite.png",
-              "particle": ""
             }
           ]
         }
       ],
       "eggGroups": [
-        "HUMAN_LIKE"
+        "AMORPHOUS"
       ],
       "types": [
-        "ELECTRIC",
-        "FIGHTING"
+        "GHOST"
       ],
       "preEvolutions": [
-        "Electabuzz",
-        "Elekid"
+        "Duskull"
       ],
       "defaultBaseForm": "",
       "megaItems": [],
@@ -485,14 +498,31 @@
         "canGigantamax": false
       },
       "eggCycles": 26,
-      "weight": 138.6,
-      "catchRate": 30,
-      "malePercentage": 75,
-      "evolutions": [],
+      "weight": 30.6,
+      "catchRate": 90,
+      "malePercentage": 50,
+      "evolutions": [
+        {
+          "to": "Dusknoir",
+          "conditions": [
+            {
+              "item": {
+                "itemID": "pixelmon:reaper_cloth"
+              },
+              "evoConditionType": "heldItem"
+            }
+          ],
+          "moves": [
+            "Drain Punch"
+          ],
+          "evoType": "trade"
+        }
+      ],
       "evYields": {
-        "attack": 3
+        "defense": 1,
+        "specialDefense": 1
       }
     }
   ],
-  "generation": 4
+  "generation": 3
 }

@@ -1,264 +1,251 @@
 {
-  "name": "Ariados",
-  "dex": 168,
+  "name": "Ekans",
+  "dex": 23,
   "defaultForms": [
     ""
   ],
   "forms": [
     {
       "name": "",
-      "experienceGroup": "FAST",
+      "experienceGroup": "MEDIUM_FAST",
       "dimensions": {
-        "height": 0.9,
-        "width": 1.1,
+        "height": 0.3,
+        "width": 1.0,
         "length": 1,
-        "eyeHeight": 0.9,
-        "hoverHeight": 0.9
+        "eyeHeight": 0.3,
+        "hoverHeight": 0.3
       },
       "moves": {
         "levelUpMoves": [
           {
             "level": 0,
             "attacks": [
-              "Absorb",
-              "Bug Bite",
-              "Constrict",
-              "Fell Stinger",
-              "Focus Energy",
-              "Poison Sting",
-              "String Shot",
-              "Swords Dance",
-              "Venom Drench"
+              "Leer",
+              "Wrap"
             ]
           },
           {
-            "level": 5,
+            "level": 4,
             "attacks": [
-              "Absorb"
+              "Poison Sting"
             ]
           },
           {
-            "level": 8,
+            "level": 9,
             "attacks": [
-              "Infestation"
+              "Bite"
             ]
           },
           {
             "level": 12,
             "attacks": [
-              "Scary Face"
+              "Glare"
             ]
           },
           {
-            "level": 15,
+            "level": 17,
             "attacks": [
-              "Night Shade"
+              "Screech"
             ]
           },
           {
-            "level": 19,
+            "level": 20,
             "attacks": [
-              "Shadow Sneak"
+              "Acid"
             ]
           },
           {
             "level": 23,
             "attacks": [
-              "Fury Swipes"
+              "Toxic Spikes"
             ]
           },
           {
             "level": 25,
             "attacks": [
-              "Envenom"
+              "Spit Up",
+              "Stockpile",
+              "Swallow"
             ]
           },
           {
             "level": 28,
             "attacks": [
-              "Sucker Punch"
+              "Acid Spray"
             ]
           },
           {
-            "level": 32,
+            "level": 33,
             "attacks": [
-              "Spider Web"
+              "Mud Bomb"
             ]
           },
           {
-            "level": 37,
+            "level": 36,
             "attacks": [
-              "Agility"
+              "Gastro Acid"
+            ]
+          },
+          {
+            "level": 38,
+            "attacks": [
+              "Belch"
             ]
           },
           {
             "level": 41,
             "attacks": [
-              "Pin Missile"
+              "Haze"
             ]
           },
           {
-            "level": 46,
+            "level": 44,
             "attacks": [
-              "Psychic"
+              "Coil"
             ]
           },
           {
-            "level": 50,
+            "level": 49,
             "attacks": [
-              "Poison Jab"
-            ]
-          },
-          {
-            "level": 55,
-            "attacks": [
-              "Cross Poison"
-            ]
-          },
-          {
-            "level": 58,
-            "attacks": [
-              "Sticky Web"
-            ]
-          },
-          {
-            "level": 63,
-            "attacks": [
-              "Toxic Thread"
+              "Gunk Shot"
             ]
           }
         ],
         "tutorMoves": [
-          "Bounce",
-          "Bug Bite",
-          "Electroweb",
-          "Foul Play",
+          "Aqua Tail",
+          "Bind",
+          "Gastro Acid",
           "Giga Drain",
-          "Signal Beam",
+          "Gunk Shot",
+          "Iron Tail",
+          "Seed Bomb",
+          "Snatch",
           "Snore",
-          "Stomping Tantrum",
-          "Throat Chop"
+          "Spite"
         ],
         "eggMoves": [
-          "Baton Pass",
+          "Beat Up",
           "Disable",
-          "Electroweb",
-          "Lunge",
-          "Megahorn",
-          "Night Slash",
-          "Psybeam",
+          "Iron Tail",
+          "Poison Fang",
+          "Poison Tail",
           "Pursuit",
-          "Rage Powder",
-          "Signal Beam",
-          "Sonic Boom",
-          "Toxic Spikes",
-          "Twineedle"
+          "Scary Face",
+          "Slam",
+          "Snatch",
+          "Spite",
+          "Sucker Punch",
+          "Switcheroo"
         ],
         "tmMoves8": [],
         "trMoves": [],
         "hmMoves": [],
         "transferMoves": [
+          "Bide",
           "Body Slam",
           "Captivate",
+          "Crunch",
           "Curse",
-          "Dig",
           "Double-Edge",
           "Endure",
-          "Flash",
-          "Hone Claws",
+          "Fissure",
           "Mimic",
           "Natural Gift",
-          "Refresh",
-          "Screech",
+          "Rage",
           "Secret Power",
-          "Struggle Bug"
+          "Skull Bash",
+          "Strength",
+          "Take Down"
         ],
         "tmMoves7": [
           "Toxic",
           "Venoshock",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
           "Protect",
+          "Rain Dance",
           "Frustration",
-          "Solar Beam",
+          "Earthquake",
           "Return",
-          "Leech Life",
-          "Psychic",
           "Double Team",
+          "Sludge Wave",
           "Sludge Bomb",
+          "Rock Tomb",
+          "Torment",
           "Facade",
           "Rest",
           "Attract",
           "Thief",
           "Round",
-          "Smart Strike",
-          "Giga Impact",
-          "Swords Dance",
-          "X-Scissor",
+          "Brutal Swing",
+          "Payback",
+          "Bulldoze",
+          "Rock Slide",
           "Infestation",
           "Poison Jab",
           "Swagger",
           "Sleep Talk",
           "Substitute",
+          "Dark Pulse",
           "Confide"
         ],
         "tmMoves6": [
-          "Hone Claws",
           "Toxic",
           "Venoshock",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
           "Protect",
+          "Rain Dance",
           "Frustration",
-          "Solar Beam",
+          "Earthquake",
           "Return",
           "Dig",
-          "Psychic",
           "Double Team",
+          "Sludge Wave",
           "Sludge Bomb",
+          "Rock Tomb",
+          "Torment",
           "Facade",
           "Rest",
           "Attract",
           "Thief",
           "Round",
-          "Giga Impact",
-          "Flash",
-          "Struggle Bug",
-          "X-Scissor",
+          "Payback",
+          "Bulldoze",
+          "Rock Slide",
           "Infestation",
           "Poison Jab",
           "Swagger",
           "Sleep Talk",
           "Substitute",
           "Secret Power",
+          "Dark Pulse",
           "Confide"
         ],
         "tmMoves5": [
-          "Hone Claws",
           "Toxic",
           "Venoshock",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
           "Protect",
+          "Rain Dance",
           "Frustration",
-          "Solar Beam",
+          "Earthquake",
           "Return",
           "Dig",
-          "Psychic",
           "Double Team",
+          "Sludge Wave",
           "Sludge Bomb",
+          "Rock Tomb",
+          "Torment",
           "Facade",
           "Rest",
           "Attract",
           "Thief",
           "Round",
-          "Giga Impact",
-          "Flash",
-          "Struggle Bug",
-          "X-Scissor",
+          "Payback",
+          "Bulldoze",
+          "Rock Slide",
           "Poison Jab",
           "Swagger",
           "Substitute"
@@ -267,25 +254,29 @@
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
           "Protect",
+          "Rain Dance",
           "Giga Drain",
           "Frustration",
-          "Solar Beam",
+          "Iron Tail",
+          "Earthquake",
           "Return",
           "Dig",
-          "Psychic",
           "Double Team",
           "Sludge Bomb",
+          "Rock Tomb",
+          "Torment",
           "Facade",
           "Secret Power",
           "Rest",
           "Attract",
           "Thief",
+          "Snatch",
           "Endure",
-          "Giga Impact",
-          "Flash",
+          "Payback",
           "Captivate",
+          "Dark Pulse",
+          "Rock Slide",
           "Sleep Talk",
           "Natural Gift",
           "Poison Jab",
@@ -296,37 +287,38 @@
           "Toxic",
           "Hidden Power",
           "Sunny Day",
-          "Hyper Beam",
           "Protect",
+          "Rain Dance",
           "Giga Drain",
           "Frustration",
-          "Solar Beam",
+          "Iron Tail",
+          "Earthquake",
           "Return",
           "Dig",
-          "Psychic",
           "Double Team",
           "Sludge Bomb",
+          "Torment",
           "Facade",
           "Secret Power",
           "Rest",
           "Attract",
-          "Thief"
+          "Thief",
+          "Snatch"
         ],
         "tmMoves2": [
+          "Headbutt",
           "Curse",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
           "Snore",
-          "Hyper Beam",
           "Protect",
           "Giga Drain",
           "Endure",
           "Frustration",
-          "Solar Beam",
+          "Earthquake",
           "Return",
           "Dig",
-          "Psychic",
           "Double Team",
           "Swagger",
           "Sleep Talk",
@@ -335,55 +327,60 @@
           "Attract",
           "Thief"
         ],
-        "tmMoves1": [],
+        "tmMoves1": [
+          "Toxic",
+          "Body Slam",
+          "Take Down",
+          "Double-Edge",
+          "Rage",
+          "Mega Drain",
+          "Earthquake",
+          "Fissure",
+          "Dig",
+          "Mimic",
+          "Double Team",
+          "Bide",
+          "Skull Bash",
+          "Rest",
+          "Rock Slide",
+          "Substitute"
+        ],
         "tmMoves": []
       },
       "abilities": {
         "abilities": [
-          "Swarm",
-          "Merciless"
+          "Intimidate",
+          "Unnerve"
         ],
         "hiddenAbilities": [
-          "Sniper"
+          "ShedSkin"
         ]
       },
       "movement": {
-        "rideable": true,
+        "rideable": false,
         "canFly": false,
         "canSurf": false,
-        "canRideShoulder": false,
-        "ridingOffsets": {
-          "standing": {
-            "x": 0.0,
-            "y": -1.15,
-            "z": -0.5
-          },
-          "moving": {
-            "x": 0.0,
-            "y": -1.15,
-            "z": -0.5
-          }
-        }
+        "canRideShoulder": false
       },
       "aggression": {
-        "timid": 5,
-        "passive": 35,
-        "aggressive": 60
+        "timid": 70,
+        "passive": 0,
+        "aggressive": 30
       },
       "battleStats": {
-        "hp": 70,
-        "attack": 100,
-        "defense": 70,
-        "specialAttack": 70,
-        "specialDefense": 70,
-        "speed": 70
+        "hp": 35,
+        "attack": 60,
+        "defense": 44,
+        "specialAttack": 40,
+        "specialDefense": 54,
+        "speed": 55
       },
       "tags": [],
       "spawn": {
-        "baseExp": 134,
+        "baseExp": 62,
         "baseFriendship": 70,
-        "spawnLevel": 22,
-        "spawnLevelRange": 28,
+        "spawnLevel": 10,
+        "spawnLevelRange": 12,
         "spawnLocations": [
           "LAND"
         ]
@@ -398,37 +395,37 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/168_ariados/all/base/none/texture.png",
-              "sprite": "pixelmon:pokemon/168_ariados/all/base/none/sprite.png",
+              "texture": "pixelmon:pokemon/023_ekans/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/023_ekans/all/base/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/168_ariados/all/base/none/model.pqc"
+                  "pixelmon:pokemon/023_ekans/all/base/none/model.pqc"
                 ],
-                "movementThreshold": 0.02
+                "movementThreshold": 0.05
               },
-              "sounds": []
+              "sounds": [
+                "pixelmon.mob.ekans"
+              ]
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/168_ariados/all/base/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/168_ariados/all/base/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/023_ekans/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/023_ekans/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
             }
           ]
         }
       ],
       "eggGroups": [
-        "BUG"
+        "FIELD",
+        "DRAGON"
       ],
       "types": [
-        "BUG",
         "POISON"
       ],
-      "preEvolutions": [
-        "Spinarak"
-      ],
+      "preEvolutions": [],
       "defaultBaseForm": "",
       "megaItems": [],
       "megas": [],
@@ -436,15 +433,25 @@
         "canHaveFactor": false,
         "canGigantamax": false
       },
-      "eggCycles": 16,
-      "weight": 33.5,
-      "catchRate": 90,
+      "eggCycles": 21,
+      "weight": 6.9,
+      "catchRate": 255,
       "malePercentage": 50,
-      "evolutions": [],
+      "evolutions": [
+        {
+          "level": 22,
+          "to": "Arbok",
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Crunch"
+          ]
+        }
+      ],
       "evYields": {
-        "attack": 2
+        "attack": 1
       }
     }
   ],
-  "generation": 2
+  "generation": 1
 }

@@ -48,6 +48,12 @@
             ]
           },
           {
+            "level": 20,
+            "attacks": [
+              "Helping Hand"
+            ]
+          },
+          {
             "level": 22,
             "attacks": [
               "Water Pulse"
@@ -66,9 +72,17 @@
             ]
           },
           {
+            "level": 31,
+            "attacks": [
+              "Follow Me",
+              "Taunt"
+            ]
+          },
+          {
             "level": 33,
             "attacks": [
-              "Aqua Ring"
+              "Aqua Ring",
+              "Roost"
             ]
           },
           {

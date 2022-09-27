@@ -3,7 +3,7 @@
   "attackName": "Magnet Bomb",
   "attackType": "STEEL",
   "attackCategory": "SPECIAL",
-  "basePower": 80,
+  "basePower": 60,
   "ppBase": 20,
   "ppMax": 32,
   "accuracy": 100,
@@ -11,7 +11,7 @@
   "effects": [
     {
       "type": "Accuracy",
-      "amount": 1,
+      "amount": 2,
       "isUser": true,
       "modifiers": [],
       "persists": false,

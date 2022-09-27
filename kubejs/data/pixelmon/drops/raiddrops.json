@@ -802,6 +802,10 @@
                 "weight": 25
             },
             {
+                "item": "pixelmon:mint_cutting",
+                "weight": 25
+            },
+            {
                 "item": "pixelmon:armorite_ore",
                 "weight": 50
             },

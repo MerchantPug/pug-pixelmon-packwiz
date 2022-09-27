@@ -1,6 +1,6 @@
 {
-  "name": "Electivire",
-  "dex": 466,
+  "name": "Electabuzz",
+  "dex": 125,
   "defaultForms": [
     ""
   ],
@@ -9,11 +9,11 @@
       "name": "",
       "experienceGroup": "MEDIUM_FAST",
       "dimensions": {
-        "height": 1.9,
-        "width": 1.4,
+        "height": 1.15,
+        "width": 1.0,
         "length": 1,
-        "eyeHeight": 1.9,
-        "hoverHeight": 1.9
+        "eyeHeight": 1.15,
+        "hoverHeight": 1.15
       },
       "moves": {
         "levelUpMoves": [
@@ -23,8 +23,7 @@
               "Charge",
               "Leer",
               "Quick Attack",
-              "Thunder Shock",
-              "Bullet Punch"
+              "Thunder Shock"
             ]
           },
           {
@@ -70,21 +69,9 @@
             ]
           },
           {
-            "level": 43,
-            "attacks": [
-              "Mach Punch"
-            ]
-          },
-          {
             "level": 46,
             "attacks": [
               "Thunderbolt"
-            ]
-          },
-          {
-            "level": 49,
-            "attacks": [
-              "Close Combat"
             ]
           },
           {
@@ -131,11 +118,9 @@
           "Hyper Beam",
           "Giga Impact",
           "Thunder Wave",
-          "Dig",
           "Screech",
           "Light Screen",
           "Rest",
-          "Rock Slide",
           "Thief",
           "Snore",
           "Protect",
@@ -145,35 +130,26 @@
           "Swift",
           "Helping Hand",
           "Brick Break",
-          "Weather Ball",
-          "Rock Tomb",
           "Fling",
           "Low Sweep",
           "Round",
           "Volt Switch",
-          "Bulldoze",
-          "Electroweb",
-          "Electric Terrain",
-          "Stomping Tantrum"
+          "Electroweb"
         ],
         "trMoves": [
           "Body Slam",
-          "Flamethrower",
           "Low Kick",
           "Thunderbolt",
           "Thunder",
-          "Earthquake",
           "Psychic",
           "Substitute",
           "Endure",
           "Sleep Talk",
           "Iron Tail",
           "Uproar",
-          "Taunt",
           "Focus Blast",
           "Electro Ball",
-          "Wild Charge",
-          "Darkest Lariat"
+          "Wild Charge"
         ],
         "hmMoves": [],
         "transferMoves": [
@@ -194,7 +170,6 @@
           "Frustration",
           "Headbutt",
           "Hidden Power",
-          "Ion Deluge",
           "Karate Chop",
           "Magnet Rise",
           "Meditate",
@@ -217,15 +192,14 @@
           "Submission",
           "Swagger",
           "Take Down",
+          "Taunt",
           "Teleport",
-          "Torment",
           "Toxic",
           "Zap Cannon"
         ],
         "tmMoves7": [
           "Toxic",
           "Hidden Power",
-          "Taunt",
           "Hyper Beam",
           "Light Screen",
           "Protect",
@@ -233,14 +207,10 @@
           "Frustration",
           "Thunderbolt",
           "Thunder",
-          "Earthquake",
           "Return",
           "Psychic",
           "Brick Break",
           "Double Team",
-          "Flamethrower",
-          "Rock Tomb",
-          "Torment",
           "Facade",
           "Rest",
           "Attract",
@@ -253,8 +223,6 @@
           "Giga Impact",
           "Volt Switch",
           "Thunder Wave",
-          "Bulldoze",
-          "Rock Slide",
           "Swagger",
           "Sleep Talk",
           "Substitute",
@@ -264,7 +232,6 @@
         "tmMoves6": [
           "Toxic",
           "Hidden Power",
-          "Taunt",
           "Hyper Beam",
           "Light Screen",
           "Protect",
@@ -272,15 +239,10 @@
           "Frustration",
           "Thunderbolt",
           "Thunder",
-          "Earthquake",
           "Return",
-          "Dig",
           "Psychic",
           "Brick Break",
           "Double Team",
-          "Flamethrower",
-          "Rock Tomb",
-          "Torment",
           "Facade",
           "Rest",
           "Attract",
@@ -294,8 +256,6 @@
           "Flash",
           "Volt Switch",
           "Thunder Wave",
-          "Bulldoze",
-          "Rock Slide",
           "Swagger",
           "Sleep Talk",
           "Substitute",
@@ -307,7 +267,6 @@
         "tmMoves5": [
           "Toxic",
           "Hidden Power",
-          "Taunt",
           "Hyper Beam",
           "Light Screen",
           "Protect",
@@ -315,15 +274,10 @@
           "Frustration",
           "Thunderbolt",
           "Thunder",
-          "Earthquake",
           "Return",
-          "Dig",
           "Psychic",
           "Brick Break",
           "Double Team",
-          "Flamethrower",
-          "Rock Tomb",
-          "Torment",
           "Facade",
           "Rest",
           "Attract",
@@ -337,8 +291,6 @@
           "Flash",
           "Volt Switch",
           "Thunder Wave",
-          "Bulldoze",
-          "Rock Slide",
           "Swagger",
           "Substitute",
           "Wild Charge",
@@ -348,7 +300,6 @@
           "Focus Punch",
           "Toxic",
           "Hidden Power",
-          "Taunt",
           "Hyper Beam",
           "Light Screen",
           "Protect",
@@ -357,16 +308,11 @@
           "Iron Tail",
           "Thunderbolt",
           "Thunder",
-          "Earthquake",
           "Return",
-          "Dig",
           "Psychic",
           "Brick Break",
           "Double Team",
           "Shock Wave",
-          "Flamethrower",
-          "Rock Tomb",
-          "Torment",
           "Facade",
           "Secret Power",
           "Rest",
@@ -380,23 +326,102 @@
           "Flash",
           "Thunder Wave",
           "Captivate",
-          "Rock Slide",
           "Sleep Talk",
           "Natural Gift",
           "Swagger",
           "Substitute"
         ],
-        "tmMoves3": [],
-        "tmMoves2": [],
-        "tmMoves1": [],
+        "tmMoves3": [
+          "Focus Punch",
+          "Toxic",
+          "Hidden Power",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Iron Tail",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Psychic",
+          "Brick Break",
+          "Double Team",
+          "Shock Wave",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Thief"
+        ],
+        "tmMoves2": [
+          "Dynamic Punch",
+          "Headbutt",
+          "Curse",
+          "Toxic",
+          "Zap Cannon",
+          "Rock Smash",
+          "Hidden Power",
+          "Snore",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Endure",
+          "Frustration",
+          "Iron Tail",
+          "Thunder",
+          "Return",
+          "Psychic",
+          "Mud-Slap",
+          "Double Team",
+          "Ice Punch",
+          "Swagger",
+          "Sleep Talk",
+          "Swift",
+          "Thunder Punch",
+          "Detect",
+          "Rest",
+          "Attract",
+          "Thief",
+          "Fire Punch"
+        ],
+        "tmMoves1": [
+          "Mega Punch",
+          "Mega Kick",
+          "Toxic",
+          "Body Slam",
+          "Take Down",
+          "Double-Edge",
+          "Hyper Beam",
+          "Submission",
+          "Counter",
+          "Seismic Toss",
+          "Rage",
+          "Thunderbolt",
+          "Thunder",
+          "Psychic",
+          "Teleport",
+          "Mimic",
+          "Double Team",
+          "Reflect",
+          "Bide",
+          "Metronome",
+          "Swift",
+          "Skull Bash",
+          "Rest",
+          "Thunder Wave",
+          "Psywave",
+          "Substitute"
+        ],
         "tmMoves": []
       },
       "abilities": {
         "abilities": [
-          "VoltAbsorb"
+          "MotorDrive",
+          "Static"
         ],
         "hiddenAbilities": [
-          "IronFist"
+          "VitalSpirit"
         ]
       },
       "movement": {
@@ -411,19 +436,19 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 75,
-        "attack": 123,
-        "defense": 67,
+        "hp": 65,
+        "attack": 83,
+        "defense": 57,
         "specialAttack": 95,
         "specialDefense": 85,
-        "speed": 95
+        "speed": 105
       },
       "tags": [],
       "spawn": {
-        "baseExp": 199,
+        "baseExp": 156,
         "baseFriendship": 70,
-        "spawnLevel": 30,
-        "spawnLevelRange": 20,
+        "spawnLevel": 25,
+        "spawnLevelRange": 9,
         "spawnLocations": [
           "LAND"
         ]
@@ -438,30 +463,25 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/466_electivire/all/base/none/texture.png",
-              "sprite": "pixelmon:pokemon/466_electivire/all/base/none/sprite.png",
+              "texture": "pixelmon:pokemon/125_electabuzz/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/125_electabuzz/all/base/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/466_electivire/all/base/none/model.pqc"
+                  "pixelmon:pokemon/125_electabuzz/all/base/none/model.pqc"
                 ]
               },
               "sounds": [
-                "pixelmon.mob.electivire"
+                "pixelmon.mob.electabuzz",
+                "pixelmon.mob.electabuzz"
               ]
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/466_electivire/all/base/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/466_electivire/all/base/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/125_electabuzz/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/125_electabuzz/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
-            },
-            {
-              "name": "strike",
-              "texture": "pixelmon:pokemon/466_electivire/all/base/strike/texture.png",
-              "sprite": "pixelmon:pokemon/466_electivire/all/base/strike/sprite.png",
-              "particle": ""
             }
           ]
         }
@@ -470,11 +490,9 @@
         "HUMAN_LIKE"
       ],
       "types": [
-        "ELECTRIC",
-        "FIGHTING"
+        "ELECTRIC"
       ],
       "preEvolutions": [
-        "Electabuzz",
         "Elekid"
       ],
       "defaultBaseForm": "",
@@ -485,14 +503,27 @@
         "canGigantamax": false
       },
       "eggCycles": 26,
-      "weight": 138.6,
-      "catchRate": 30,
+      "weight": 30.0,
+      "catchRate": 45,
       "malePercentage": 75,
-      "evolutions": [],
+      "evolutions": [
+        {
+          "to": "Electivire",
+          "conditions": [
+            {
+              "item": {
+                "itemID": "pixelmon:electirizer"
+              },
+              "evoConditionType": "heldItem"
+            }
+          ],
+          "evoType": "trade"
+        }
+      ],
       "evYields": {
-        "attack": 3
+        "speed": 2
       }
     }
   ],
-  "generation": 4
+  "generation": 1
 }
