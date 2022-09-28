@@ -477,7 +477,8 @@
         "DRAGON"
       ],
       "types": [
-        "POISON"
+        "POISON",
+        "DARK"
       ],
       "preEvolutions": [
         "Ekans"

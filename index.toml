@@ -106,7 +106,7 @@ hash = "a337497fee4f8eff6a6d11a2994bbdddea207fd15f97c9f09be87c2edc2a84a2"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/024_arbok.json"
-hash = "9233543a1f3fa2e417d40ad8d2c2e2c28a15ed7f22d311b654ffe100ed2b91f4"
+hash = "d5c75cd2d2d22a8fab5a2f868ea7f5f147f5181ae4b2cbc24668f17d3d3bd87d"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/077_ponyta.json"
@@ -133,6 +133,10 @@ file = "kubejs/data/pixelmon/species/100_voltorb.json"
 hash = "d151aa6761d0c0db26e6d958ff7466e19286ab60e481c99bfd1f8104c6434a85"
 
 [[files]]
+file = "kubejs/data/pixelmon/species/101_electrode.json"
+hash = "6e3f632e3311d595aec5cac7f231449b20a31bc4a63e71f8bf212bdda71d703c"
+
+[[files]]
 file = "kubejs/data/pixelmon/species/125_electabuzz.json"
 hash = "b42f5e3a184246e68be0c94d9a0f7943cd57f96f52c1e4f910177519197eeebd"
 
@@ -154,7 +158,7 @@ hash = "1e3e16581b54d2392c993fa8c0ae2a55cc3d2e162811c4431071b4b4cfa7ed1d"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/166_ledian.json"
-hash = "78d961402e583790dc7ff557d1bc62e4e2258aa250d20e7badcecd01352c4b38"
+hash = "dcd27d8f0bc27ec276ab703543a7a9a95026596ab6732a2625655aa6ade04254"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/167_spinarak.json"
@@ -294,7 +298,7 @@ hash = "3be8843582ae8668ff8043d26c362a8d44ec136d3ea3c4c01210a7e74e06cbc6"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/405_luxray.json"
-hash = "86e32bdbd439c00757cada0a5d490dfd0c26af51525ac7ccdd2457feaf9d364f"
+hash = "2b3a3e3623fa3aba485e38f1ad90b82c84fbd13c6c723fc3b99f605e3ecf18d9"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/408_cranidos.json"
@@ -326,7 +330,7 @@ hash = "1c85363bcb42d271347349361f84678f14a6758e8029683e14de13aae8e0bb3c"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/454_toxicroak.json"
-hash = "1e187fcde13626ecd241f4315df710ffd272a5a27dac72dd5abd666d1f52f847"
+hash = "be0d3a9d87ad77b6edc4926a0342e54299e5e4c9a588d3cf2d3b3c9cb46b286c"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/455_carnivine.json"
@@ -358,7 +362,7 @@ hash = "3b9eb50cb69facaeeb05ae344f3905c20b6012bcd645530138e9337d3848229a"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/477_dusknoir.json"
-hash = "0d0766f679488f8ae303d91cc4b6138bcb828acfe42320aa9a8ec259ae2938f9"
+hash = "e0b82364cdcb20a36494dd0da474c9eef859a0776580f65ef647525def8c2633"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/478_froslass.json"
@@ -450,7 +454,7 @@ hash = "4c331e9a4218174ba78e992009ad1409977968c82793a2d94845dfe6e7badf1f"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/826_orbeetle.json"
-hash = "a1858477d0f03661c93d482f59457c0e2c606c5111102315286574dc3c461c5e"
+hash = "58573582762f5d44dfea6c62c31027e0452395132f8f3233ccafeb2f3bf5e454"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/830_eldegoss.json"
