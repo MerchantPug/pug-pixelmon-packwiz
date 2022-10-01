@@ -6,7 +6,7 @@ hash = "d5805cff7ec4dbdfc4928eafac18ed835ab3e64c682cc6f3e08fade6769c7cb3"
 
 [[files]]
 file = "config/pixelmon/spawning.yml"
-hash = "54a397c4e910ccedf2297612aa720aa642a213ebe03535ad35c7a9f6dbaaecac"
+hash = "fa48355f47dca0879795bf0eacef3288753f2b975dc7659644477a390b69124e"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -63,10 +63,6 @@ hash = "3bc5be430a88ba7d5f088c69e6d7b750638570649c32d955cd08632e8e5380b4"
 [[files]]
 file = "kubejs/data/pixelmon/moves/parabolic_charge.json"
 hash = "b075229e1208d211f591c66b977ce6cbf5696ead6d8017c6d4f017ef3ffdabca"
-
-[[files]]
-file = "kubejs/data/pixelmon/moves/poison_sting.json"
-hash = "5d332d5f2d97daa9b48f787e4a6dc889e431d173f8e9742fe886be5afe179333"
 
 [[files]]
 file = "kubejs/data/pixelmon/moves/signal_beam.json"
@@ -350,7 +346,7 @@ hash = "8e87eb4790eceb826cd0ac44f2bd5e2e3eb31a747d9e4e92f2e8d532d5bb722f"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/466_electivire.json"
-hash = "cc8f76c3c52256b257c5100813ed48620036fc8b954db6a69651833a07027b66"
+hash = "3953bab85b013039d9f310dae49429947c619ab94a2f01207b40d89b4cbc044e"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/471_glaceon.json"
@@ -490,7 +486,7 @@ hash = "685a0e914a197a844faade473be9a9add02f208012f030fe0e63d1246c97f992"
 
 [[files]]
 file = "local/ftbchunks/client-config.snbt"
-hash = "d9e8c709de083aad518b1cea023e18acaf27f974f29ce356a999cd3def5990fe"
+hash = "b4557ea684a449e68fb63b666772e78d677e05ec3df2c3fc4a54467b9f11e007"
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"
@@ -603,6 +599,11 @@ hash = "b1a792e1364e4424ed5a7302a546eb87b3b4b29e6a2c7affba15f1af33658cc1"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "04b928d8be54ab152fc2ddbe278bf7ce08353de099145f7ffb1a1b4ff33d11a7"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "90b686efc8eadfbc6a6858bae0158985b744023580f3e261975c6102e24e2c7c"
 metafile = true
@@ -614,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "3075353eb60a5f28494dabc3c01aa4852f8369443bb3a27887b840b2214a471e"
+hash = "567a4034addb3fe7297c39bb327d6a3a7cdcc2fa53814a78da7da9cad7272904"
 metafile = true
 
 [[files]]
@@ -679,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/pixelmon.pw.toml"
-hash = "0dd05f92140f1a21b23315864979ed0e539872e55d9b0d6ec32484bd29565adf"
+hash = "84eb44f2e25bea5ffa774f5c5362f3ffe46b1c3c6d50fecb497b277b7fd43e71"
 metafile = true
 
 [[files]]

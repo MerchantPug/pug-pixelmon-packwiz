@@ -3,8 +3,8 @@ shiny-rate: 4096.0
 ultra-space-shiny-rate-multiplier: 0.5
 hidden-ability-rate: 150.0
 ultra-space-hidden-ability-multiplier: 0.5
-legendary-spawn-ticks: 18750
-legendary-spawn-chance: 0.30000001192092896
+legendary-spawn-ticks: 14400
+legendary-spawn-chance: 0.4
 spawn-ticks-player-multiplier: 0.009999999776482582
 spawn-levels-closer-to-player-levels: true
 spawn-levels-increase-in-caves: true
