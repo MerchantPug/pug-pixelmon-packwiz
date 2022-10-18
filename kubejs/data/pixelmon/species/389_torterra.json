@@ -1,6 +1,6 @@
 {
-  "name": "Chikorita",
-  "dex": 152,
+  "name": "Torterra",
+  "dex": 389,
   "defaultForms": [
     ""
   ],
@@ -9,120 +9,127 @@
       "name": "",
       "experienceGroup": "MEDIUM_SLOW",
       "dimensions": {
-        "height": 0.9,
-        "width": 1.0,
+        "height": 2.2,
+        "width": 2.2,
         "length": 1,
-        "eyeHeight": 0.9,
-        "hoverHeight": 0.9
+        "eyeHeight": 2.2,
+        "hoverHeight": 2.2
       },
       "moves": {
         "levelUpMoves": [
           {
             "level": 0,
             "attacks": [
-              "Growl",
-              "Tackle"
+              "Absorb",
+              "Earthquake",
+              "Razor Leaf",
+              "Tackle",
+              "Withdraw",
+              "Wood Hammer"
             ]
           },
           {
-            "level": 6,
+            "level": 5,
             "attacks": [
-              "Razor Leaf"
+              "Withdraw"
             ]
           },
           {
             "level": 9,
             "attacks": [
-              "Poison Powder"
+              "Absorb"
             ]
           },
           {
-            "level": 12,
+            "level": 13,
             "attacks": [
-              "Synthesis"
+              "Razor Leaf"
             ]
           },
           {
             "level": 17,
             "attacks": [
-              "Reflect"
+              "Curse"
             ]
           },
           {
-            "level": 20,
+            "level": 22,
             "attacks": [
-              "Magical Leaf"
+              "Bite"
             ]
           },
           {
-            "level": 23,
+            "level": 27,
             "attacks": [
-              "Natural Gift"
+              "Mega Drain"
             ]
           },
           {
-            "level": 28,
+            "level": 33,
             "attacks": [
-              "Sweet Scent"
-            ]
-          },
-          {
-            "level": 31,
-            "attacks": [
-              "Light Screen"
-            ]
-          },
-          {
-            "level": 34,
-            "attacks": [
-              "Body Slam"
+              "Leech Seed"
             ]
           },
           {
             "level": 39,
             "attacks": [
-              "Safeguard"
-            ]
-          },
-          {
-            "level": 42,
-            "attacks": [
-              "Aromatherapy"
+              "Synthesis"
             ]
           },
           {
             "level": 45,
             "attacks": [
-              "Solar Beam"
+              "Crunch"
+            ]
+          },
+          {
+            "level": 51,
+            "attacks": [
+              "Giga Drain"
+            ]
+          },
+          {
+            "level": 57,
+            "attacks": [
+              "Leaf Storm"
             ]
           }
         ],
         "tutorMoves": [
+          "Block",
+          "Earth Power",
+          "Frenzy Plant",
           "Giga Drain",
           "Grass Pledge",
+          "Iron Head",
           "Iron Tail",
-          "Magic Coat",
+          "Outrage",
           "Seed Bomb",
           "Snore",
+          "Stealth Rock",
+          "Stomping Tantrum",
+          "Superpower",
           "Synthesis",
           "Worry Seed"
         ],
         "eggMoves": [
-          "Ancient Power",
-          "Aromatherapy",
+          "Amnesia",
           "Body Slam",
-          "Counter",
-          "Flail",
-          "Grass Whistle",
+          "Double-Edge",
+          "Earth Power",
           "Grassy Terrain",
-          "Heal Pulse",
-          "Ingrain",
-          "Leaf Storm",
-          "Leech Seed",
-          "Nature Power",
-          "Refresh",
-          "Vine Whip",
-          "Wring Out"
+          "Growth",
+          "Heavy Slam",
+          "Sand Tomb",
+          "Seed Bomb",
+          "Spit Up",
+          "Stockpile",
+          "Superpower",
+          "Swallow",
+          "Thrash",
+          "Tickle",
+          "Wide Guard",
+          "Worry Seed"
         ],
         "tmMoves8": [],
         "trMoves": [],
@@ -130,39 +137,45 @@
         "transferMoves": [
           "Bullet Seed",
           "Captivate",
-          "Curse",
           "Cut",
-          "Detect",
-          "Double-Edge",
           "Endure",
           "Flash",
-          "Frenzy Plant",
-          "Fury Cutter",
           "Headbutt",
-          "Mimic",
           "Mud-Slap",
-          "Secret Power"
+          "Natural Gift",
+          "Rock Smash",
+          "Secret Power",
+          "Strength"
         ],
         "tmMoves7": [
           "Work Up",
+          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
+          "Hyper Beam",
           "Light Screen",
           "Protect",
           "Safeguard",
           "Frustration",
           "Solar Beam",
+          "Earthquake",
           "Return",
           "Double Team",
           "Reflect",
+          "Sandstorm",
+          "Rock Tomb",
           "Facade",
           "Rest",
           "Attract",
           "Round",
-          "Echoed Voice",
           "Energy Ball",
+          "Giga Impact",
+          "Rock Polish",
+          "Stone Edge",
           "Swords Dance",
+          "Bulldoze",
+          "Rock Slide",
           "Grass Knot",
           "Swagger",
           "Sleep Talk",
@@ -171,25 +184,34 @@
           "Confide"
         ],
         "tmMoves6": [
+          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
+          "Hyper Beam",
           "Light Screen",
           "Protect",
           "Safeguard",
           "Frustration",
           "Solar Beam",
+          "Earthquake",
           "Return",
           "Double Team",
           "Reflect",
+          "Sandstorm",
+          "Rock Tomb",
           "Facade",
           "Rest",
           "Attract",
           "Round",
-          "Echoed Voice",
           "Energy Ball",
+          "Giga Impact",
+          "Rock Polish",
           "Flash",
+          "Stone Edge",
           "Swords Dance",
+          "Bulldoze",
+          "Rock Slide",
           "Grass Knot",
           "Swagger",
           "Sleep Talk",
@@ -199,34 +221,46 @@
           "Confide"
         ],
         "tmMoves5": [
+          "Roar",
           "Toxic",
           "Hidden Power",
           "Sunny Day",
+          "Hyper Beam",
           "Light Screen",
           "Protect",
           "Safeguard",
           "Frustration",
           "Solar Beam",
+          "Earthquake",
           "Return",
           "Double Team",
           "Reflect",
+          "Sandstorm",
+          "Rock Tomb",
           "Facade",
           "Rest",
           "Attract",
           "Round",
-          "Echoed Voice",
           "Energy Ball",
+          "Giga Impact",
+          "Rock Polish",
           "Flash",
+          "Stone Edge",
           "Swords Dance",
+          "Bulldoze",
+          "Rock Slide",
           "Grass Knot",
           "Swagger",
-          "Substitute"
+          "Substitute",
+          "Rock Smash"
         ],
         "tmMoves4": [
+          "Roar",
           "Toxic",
           "Bullet Seed",
           "Hidden Power",
           "Sunny Day",
+          "Hyper Beam",
           "Light Screen",
           "Protect",
           "Giga Drain",
@@ -234,84 +268,63 @@
           "Frustration",
           "Solar Beam",
           "Iron Tail",
+          "Earthquake",
           "Return",
           "Double Team",
           "Reflect",
+          "Sandstorm",
+          "Rock Tomb",
           "Facade",
           "Secret Power",
           "Rest",
           "Attract",
           "Energy Ball",
           "Endure",
+          "Giga Impact",
+          "Rock Polish",
           "Flash",
+          "Stone Edge",
           "Swords Dance",
+          "Stealth Rock",
           "Captivate",
+          "Rock Slide",
           "Sleep Talk",
           "Natural Gift",
           "Grass Knot",
           "Swagger",
           "Substitute"
         ],
-        "tmMoves3": [
-          "Toxic",
-          "Bullet Seed",
-          "Hidden Power",
-          "Sunny Day",
-          "Light Screen",
-          "Protect",
-          "Giga Drain",
-          "Safeguard",
-          "Frustration",
-          "Solar Beam",
-          "Iron Tail",
-          "Return",
-          "Double Team",
-          "Reflect",
-          "Facade",
-          "Secret Power",
-          "Rest",
-          "Attract"
-        ],
-        "tmMoves2": [
-          "Headbutt",
-          "Curse",
-          "Toxic",
-          "Hidden Power",
-          "Sunny Day",
-          "Sweet Scent",
-          "Snore",
-          "Protect",
-          "Giga Drain",
-          "Endure",
-          "Frustration",
-          "Solar Beam",
-          "Iron Tail",
-          "Return",
-          "Mud-Slap",
-          "Double Team",
-          "Swagger",
-          "Sleep Talk",
-          "Detect",
-          "Rest",
-          "Attract"
-        ],
+        "tmMoves3": [],
+        "tmMoves2": [],
         "tmMoves1": [],
         "tmMoves": []
       },
       "abilities": {
         "abilities": [
           "Overgrow",
-          "ShieldDust"
+          "Harvest"
         ],
         "hiddenAbilities": [
-          "Filter"
+          "ShellArmour"
         ]
       },
       "movement": {
-        "rideable": false,
+        "rideable": true,
         "canFly": false,
         "canSurf": false,
-        "canRideShoulder": false
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -1.2,
+            "z": 1.1
+          },
+          "moving": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
       },
       "aggression": {
         "timid": 80,
@@ -319,19 +332,19 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 45,
-        "attack": 49,
-        "defense": 65,
-        "specialAttack": 49,
-        "specialDefense": 65,
-        "speed": 45
+        "hp": 105,
+        "attack": 109,
+        "defense": 105,
+        "specialAttack": 65,
+        "specialDefense": 95,
+        "speed": 56
       },
       "tags": [],
       "spawn": {
-        "baseExp": 64,
+        "baseExp": 208,
         "baseFriendship": 70,
-        "spawnLevel": 10,
-        "spawnLevelRange": 6,
+        "spawnLevel": 36,
+        "spawnLevelRange": 9,
         "spawnLocations": [
           "LAND"
         ]
@@ -346,22 +359,30 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/152_chikorita/all/base/none/texture.png",
-              "sprite": "pixelmon:pokemon/152_chikorita/all/base/none/sprite.png",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/152_chikorita/all/base/none/model.pqc"
+                  "pixelmon:pokemon/389_torterra/all/base/none/model.pqc"
                 ]
               },
-              "sounds": []
+              "sounds": [
+                "pixelmon.mob.torterra"
+              ]
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/152_chikorita/all/base/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/152_chikorita/all/base/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
+            },
+            {
+              "name": "zombie",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/zombie/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/zombie/sprite.png",
+              "particle": ""
             }
           ]
         }
@@ -371,9 +392,13 @@
         "GRASS"
       ],
       "types": [
-        "GRASS"
+        "GRASS",
+        "GROUND"
       ],
-      "preEvolutions": [],
+      "preEvolutions": [
+        "Grotle",
+        "Turtwig"
+      ],
       "defaultBaseForm": "",
       "megaItems": [],
       "megas": [],
@@ -382,21 +407,15 @@
         "canGigantamax": false
       },
       "eggCycles": 21,
-      "weight": 6.4,
+      "weight": 310.0,
       "catchRate": 45,
       "malePercentage": 87,
-      "evolutions": [
-        {
-          "level": 16,
-          "to": "Bayleef",
-          "conditions": [],
-          "evoType": "leveling"
-        }
-      ],
+      "evolutions": [],
       "evYields": {
-        "specialDefense": 1
+        "attack": 2,
+        "defense": 1
       }
     }
   ],
-  "generation": 2
+  "generation": 4
 }

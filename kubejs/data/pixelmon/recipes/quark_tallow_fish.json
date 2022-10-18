@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "pixelmon:fish"
+        },
+        {
+            "tag": "pixelmon:fish"
+        }
+    ],
+    "result": {
+        "item": "quark:tallow",
+        "count": 1
+    },
+    "group": "quark_tallow"
+}

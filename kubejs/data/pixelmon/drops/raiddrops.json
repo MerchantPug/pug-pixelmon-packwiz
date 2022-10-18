@@ -802,7 +802,7 @@
                 "weight": 25
             },
             {
-                "item": "pixelmon:mint_cutting",
+                "item": "pixelmon:mint",
                 "weight": 25
             },
             {
@@ -1606,8 +1606,8 @@
                 "weight": 25
             },
             {
-                "item": "pixelmon:mint_cutting",
-                "weight": 25
+                "item": "pixelmon:mint",
+                "weight": 35
             },
             {
                 "item": "pixelmon:armorite_ore",
@@ -2418,8 +2418,8 @@
                 "weight": 25
             },
             {
-                "item": "pixelmon:mint_cutting",
-                "weight": 50
+                "item": "pixelmon:mint",
+                "weight": 35
             },
             {
                 "item": "pixelmon:armorite_ore",
@@ -3250,8 +3250,8 @@
                 "weight": 45
             },
             {
-                "item": "pixelmon:mint_cutting",
-                "weight": 50
+                "item": "pixelmon:mint",
+                "weight": 40
             },
             {
                 "item": "pixelmon:armorite_ore",

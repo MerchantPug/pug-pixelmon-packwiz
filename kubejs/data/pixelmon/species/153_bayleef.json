@@ -308,7 +308,8 @@
       },
       "abilities": {
         "abilities": [
-          "Overgrow"
+          "Overgrow",
+          "ShieldDust"
         ],
         "hiddenAbilities": [
           "Filter"

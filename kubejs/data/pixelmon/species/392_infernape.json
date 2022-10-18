@@ -1,6 +1,6 @@
 {
-  "name": "Empoleon",
-  "dex": 395,
+  "name": "Infernape",
+  "dex": 392,
   "defaultForms": [
     ""
   ],
@@ -9,312 +9,340 @@
       "name": "",
       "experienceGroup": "MEDIUM_SLOW",
       "dimensions": {
-        "height": 2.8,
-        "width": 1.8,
+        "height": 1.4,
+        "width": 1.4,
         "length": 1,
-        "eyeHeight": 2.8,
-        "hoverHeight": 2.8
+        "eyeHeight": 1.4,
+        "hoverHeight": 1.4
       },
       "moves": {
         "levelUpMoves": [
           {
             "level": 0,
             "attacks": [
-              "Aqua Jet",
-              "Bubble",
-              "Growl",
-              "Metal Claw",
-              "Tackle",
-              "Recover"
+              "Close Combat",
+              "Ember",
+              "Flare Blitz",
+              "Leer",
+              "Mach Punch",
+              "Scratch",
+              "Taunt"
             ]
           },
           {
-            "level": 4,
+            "level": 7,
             "attacks": [
-              "Growl"
+              "Ember"
             ]
           },
           {
-            "level": 8,
+            "level": 9,
             "attacks": [
-              "Bubble"
+              "Taunt"
             ]
           },
           {
-            "level": 11,
+            "level": 16,
             "attacks": [
-              "Swords Dance"
-            ]
-          },
-          {
-            "level": 15,
-            "attacks": [
-              "Peck"
+              "Fury Swipes"
             ]
           },
           {
             "level": 19,
             "attacks": [
-              "Bubble Beam"
+              "Flame Wheel"
             ]
           },
           {
-            "level": 24,
+            "level": 26,
             "attacks": [
-              "Swagger"
+              "Feint"
             ]
           },
           {
-            "level": 28,
+            "level": 29,
             "attacks": [
-              "Fury Attack"
+              "Punishment"
             ]
           },
           {
-            "level": 33,
+            "level": 42,
             "attacks": [
-              "Brine"
-            ]
-          },
-          {
-            "level": 39,
-            "attacks": [
-              "Whirlpool"
-            ]
-          },
-          {
-            "level": 46,
-            "attacks": [
-              "Mist"
+              "Fire Spin"
             ]
           },
           {
             "level": 52,
             "attacks": [
-              "Drill Peck"
+              "Acrobatics"
             ]
           },
           {
-            "level": 59,
+            "level": 58,
             "attacks": [
-              "Hydro Pump"
+              "Calm Mind"
+            ]
+          },
+          {
+            "level": 68,
+            "attacks": [
+              "Flare Blitz"
             ]
           }
         ],
         "tutorMoves": [
+          "Blast Burn",
           "Covet",
-          "Defog",
-          "Hydro Cannon",
-          "Icy Wind",
-          "Iron Defense",
-          "Knock Off",
+          "Dual Chop",
+          "Endeavor",
+          "Fire Pledge",
+          "Fire Punch",
+          "Focus Punch",
+          "Gunk Shot",
+          "Heat Wave",
+          "Helping Hand",
+          "Iron Tail",
           "Laser Focus",
-          "Liquidation",
-          "Signal Beam",
+          "Low Kick",
+          "Role Play",
           "Snore",
           "Stealth Rock",
-          "Throat Chop",
-          "Water Pledge",
-          "Water Pulse"
+          "Thunder Punch"
         ],
         "eggMoves": [
-          "Agility",
-          "Aqua Ring",
-          "Bide",
-          "Double Hit",
-          "Feather Dance",
-          "Flail",
-          "Hydro Pump",
-          "Icy Wind",
-          "Mud Sport",
-          "Mud-Slap",
-          "Power Trip",
-          "Snore",
-          "Supersonic",
-          "Yawn"
+          "Assist",
+          "Blaze Kick",
+          "Counter",
+          "Double Kick",
+          "Encore",
+          "Fake Out",
+          "Fire Punch",
+          "Focus Energy",
+          "Focus Punch",
+          "Heat Wave",
+          "Helping Hand",
+          "Power-Up Punch",
+          "Quick Guard",
+          "Submission",
+          "Thunder Punch"
         ],
         "tmMoves8": [],
         "trMoves": [],
         "hmMoves": [],
         "transferMoves": [
-          "Avalanche",
           "Captivate",
           "Cut",
           "Dig",
-          "Dive",
           "Endure",
-          "Fury Cutter",
           "Headbutt",
           "Hone Claws",
+          "Incinerate",
+          "Mud-Slap",
           "Natural Gift",
-          "Pluck",
+          "Retaliate",
           "Rock Smash",
+          "Rollout",
           "Secret Power",
-          "Sing",
-          "Strength"
+          "Strength",
+          "Swift",
+          "Vacuum Wave"
         ],
         "tmMoves7": [
           "Work Up",
+          "Calm Mind",
           "Roar",
           "Toxic",
-          "Hail",
+          "Bulk Up",
           "Hidden Power",
-          "Ice Beam",
-          "Blizzard",
+          "Sunny Day",
+          "Taunt",
           "Hyper Beam",
           "Protect",
-          "Rain Dance",
           "Frustration",
+          "Solar Beam",
           "Earthquake",
           "Return",
           "Brick Break",
           "Double Team",
+          "Flamethrower",
+          "Fire Blast",
           "Rock Tomb",
           "Aerial Ace",
+          "Torment",
           "Facade",
+          "Flame Charge",
           "Rest",
           "Attract",
+          "Low Sweep",
           "Round",
-          "Echoed Voice",
-          "Steel Wing",
-          "Scald",
+          "Overheat",
+          "Focus Blast",
           "Fling",
-          "Quash",
+          "Will-O-Wisp",
+          "Acrobatics",
           "Shadow Claw",
           "Giga Impact",
+          "Stone Edge",
           "Swords Dance",
           "Bulldoze",
           "Rock Slide",
+          "Poison Jab",
           "Grass Knot",
           "Swagger",
           "Sleep Talk",
+          "U-turn",
           "Substitute",
-          "Flash Cannon",
-          "Surf",
-          "Waterfall",
           "Confide"
         ],
         "tmMoves6": [
           "Hone Claws",
+          "Calm Mind",
           "Roar",
           "Toxic",
-          "Hail",
+          "Bulk Up",
           "Hidden Power",
-          "Ice Beam",
-          "Blizzard",
+          "Sunny Day",
+          "Taunt",
           "Hyper Beam",
           "Protect",
-          "Rain Dance",
           "Frustration",
+          "Solar Beam",
           "Earthquake",
           "Return",
           "Dig",
           "Brick Break",
           "Double Team",
+          "Flamethrower",
+          "Fire Blast",
           "Rock Tomb",
           "Aerial Ace",
+          "Torment",
           "Facade",
+          "Flame Charge",
           "Rest",
           "Attract",
+          "Low Sweep",
           "Round",
-          "Echoed Voice",
-          "Steel Wing",
-          "Scald",
+          "Overheat",
+          "Focus Blast",
           "Fling",
-          "Quash",
+          "Incinerate",
+          "Will-O-Wisp",
+          "Acrobatics",
           "Shadow Claw",
+          "Retaliate",
           "Giga Impact",
+          "Stone Edge",
           "Swords Dance",
           "Bulldoze",
           "Rock Slide",
+          "Poison Jab",
           "Grass Knot",
           "Swagger",
           "Sleep Talk",
+          "U-turn",
           "Substitute",
-          "Flash Cannon",
           "Secret Power",
+          "Power-Up Punch",
           "Confide"
         ],
         "tmMoves5": [
           "Hone Claws",
+          "Calm Mind",
           "Roar",
           "Toxic",
-          "Hail",
+          "Bulk Up",
           "Hidden Power",
-          "Ice Beam",
-          "Blizzard",
+          "Sunny Day",
+          "Taunt",
           "Hyper Beam",
           "Protect",
-          "Rain Dance",
           "Frustration",
+          "Solar Beam",
           "Earthquake",
           "Return",
           "Dig",
           "Brick Break",
           "Double Team",
+          "Flamethrower",
+          "Fire Blast",
           "Rock Tomb",
           "Aerial Ace",
+          "Torment",
           "Facade",
+          "Flame Charge",
           "Rest",
           "Attract",
+          "Low Sweep",
           "Round",
-          "Echoed Voice",
-          "Scald",
+          "Overheat",
+          "Focus Blast",
           "Fling",
-          "Quash",
+          "Incinerate",
+          "Will-O-Wisp",
+          "Acrobatics",
           "Shadow Claw",
+          "Retaliate",
           "Giga Impact",
+          "Stone Edge",
           "Swords Dance",
           "Bulldoze",
           "Rock Slide",
+          "Work Up",
+          "Poison Jab",
           "Grass Knot",
           "Swagger",
-          "Pluck",
+          "U-turn",
           "Substitute",
-          "Flash Cannon",
           "Rock Smash"
         ],
         "tmMoves4": [
-          "Water Pulse",
+          "Focus Punch",
+          "Calm Mind",
           "Roar",
           "Toxic",
-          "Hail",
+          "Bulk Up",
           "Hidden Power",
-          "Ice Beam",
-          "Blizzard",
+          "Sunny Day",
+          "Taunt",
           "Hyper Beam",
           "Protect",
-          "Rain Dance",
           "Frustration",
+          "Solar Beam",
+          "Iron Tail",
           "Earthquake",
           "Return",
           "Dig",
           "Brick Break",
           "Double Team",
+          "Flamethrower",
+          "Fire Blast",
           "Rock Tomb",
           "Aerial Ace",
+          "Torment",
           "Facade",
           "Secret Power",
           "Rest",
           "Attract",
-          "Steel Wing",
-          "Brine",
+          "Overheat",
+          "Focus Blast",
           "Fling",
           "Endure",
+          "Will-O-Wisp",
           "Shadow Claw",
           "Giga Impact",
-          "Avalanche",
+          "Stone Edge",
           "Swords Dance",
           "Stealth Rock",
           "Captivate",
           "Rock Slide",
           "Sleep Talk",
           "Natural Gift",
+          "Poison Jab",
           "Grass Knot",
           "Swagger",
-          "Pluck",
-          "Substitute",
-          "Flash Cannon"
+          "U-turn",
+          "Substitute"
         ],
         "tmMoves3": [],
         "tmMoves2": [],
@@ -323,10 +351,11 @@
       },
       "abilities": {
         "abilities": [
-          "Torrent"
+          "Blaze",
+          "Scrappy"
         ],
         "hiddenAbilities": [
-          "Defiant"
+          "IronFist"
         ]
       },
       "movement": {
@@ -337,21 +366,14 @@
         "ridingOffsets": {
           "standing": {
             "x": 0.0,
-            "y": 0.1,
-            "z": -0.2
+            "y": -0.8,
+            "z": -0.3
           },
           "moving": {
             "x": 0.0,
-            "y": 0.0,
+            "y": -0.4,
             "z": 0.0
           }
-        },
-        "swimmingParameters": {
-          "depthRangeStart": 1,
-          "depthRangeEnd": 60,
-          "swimSpeed": 60,
-          "decayRate": 0.99,
-          "refreshRate": 100
         }
       },
       "aggression": {
@@ -360,16 +382,16 @@
         "aggressive": 50
       },
       "battleStats": {
-        "hp": 84,
-        "attack": 86,
-        "defense": 93,
-        "specialAttack": 111,
-        "specialDefense": 101,
-        "speed": 60
+        "hp": 76,
+        "attack": 104,
+        "defense": 71,
+        "specialAttack": 104,
+        "specialDefense": 71,
+        "speed": 109
       },
       "tags": [],
       "spawn": {
-        "baseExp": 210,
+        "baseExp": 209,
         "baseFriendship": 70,
         "spawnLevel": 36,
         "spawnLevelRange": 14,
@@ -387,45 +409,51 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/395_empoleon/all/base/none/texture.png",
-              "sprite": "pixelmon:pokemon/395_empoleon/all/base/none/sprite.png",
+              "texture": "pixelmon:pokemon/392_infernape/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/392_infernape/all/base/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/395_empoleon/all/base/none/model.pqc"
+                  "pixelmon:pokemon/392_infernape/all/base/none/model.pqc"
                 ]
               },
               "sounds": [
-                "pixelmon.mob.empoleon"
+                "pixelmon.mob.infernape"
               ]
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/395_empoleon/all/base/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/395_empoleon/all/base/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/392_infernape/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/392_infernape/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
             },
             {
               "name": "zombie",
-              "texture": "pixelmon:pokemon/395_empoleon/all/base/zombie/texture.png",
-              "sprite": "pixelmon:pokemon/395_empoleon/all/base/zombie/sprite.png",
+              "texture": "pixelmon:pokemon/392_infernape/all/base/zombie/texture.png",
+              "sprite": "pixelmon:pokemon/392_infernape/all/base/zombie/sprite.png",
+              "particle": ""
+            },
+            {
+              "name": "rainbow",
+              "texture": "pixelmon:pokemon/392_infernape/all/base/rainbow/texture.png",
+              "sprite": "pixelmon:pokemon/392_infernape/all/base/rainbow/sprite.png",
               "particle": ""
             }
           ]
         }
       ],
       "eggGroups": [
-        "WATER_ONE",
-        "FIELD"
+        "FIELD",
+        "HUMAN_LIKE"
       ],
       "types": [
-        "WATER",
-        "STEEL"
+        "FIRE",
+        "FIGHTING"
       ],
       "preEvolutions": [
-        "Prinplup",
-        "Piplup"
+        "Monferno",
+        "Chimchar"
       ],
       "defaultBaseForm": "",
       "megaItems": [],
@@ -435,12 +463,14 @@
         "canGigantamax": false
       },
       "eggCycles": 21,
-      "weight": 84.5,
+      "weight": 55.0,
       "catchRate": 45,
       "malePercentage": 87,
       "evolutions": [],
       "evYields": {
-        "specialAttack": 3
+        "attack": 1,
+        "specialAttack": 1,
+        "speed": 1
       }
     }
   ],

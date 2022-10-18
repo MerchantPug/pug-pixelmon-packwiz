@@ -1,6 +1,6 @@
 {
-  "name": "Meganium",
-  "dex": 154,
+  "name": "Venusaur",
+  "dex": 3,
   "defaultForms": [
     ""
   ],
@@ -9,11 +9,11 @@
       "name": "",
       "experienceGroup": "MEDIUM_SLOW",
       "dimensions": {
-        "height": 1.5,
-        "width": 1.0,
+        "height": 1.6,
+        "width": 2.3,
         "length": 1,
-        "eyeHeight": 1.5,
-        "hoverHeight": 1.5
+        "eyeHeight": 1.6,
+        "hoverHeight": 1.6
       },
       "moves": {
         "levelUpMoves": [
@@ -21,147 +21,172 @@
             "level": 0,
             "attacks": [
               "Growl",
+              "Growth",
               "Petal Blizzard",
               "Petal Dance",
-              "Poison Powder",
-              "Razor Leaf",
               "Tackle",
-              "Follow Me"
-            ]
-          },
-          {
-            "level": 6,
-            "attacks": [
-              "Razor Leaf"
+              "Vine Whip"
             ]
           },
           {
             "level": 9,
             "attacks": [
-              "Poison Powder"
+              "Leech Seed"
             ]
           },
           {
             "level": 12,
             "attacks": [
-              "Synthesis"
+              "Razor Leaf"
             ]
           },
           {
-            "level": 18,
+            "level": 15,
             "attacks": [
-              "Reflect"
+              "Poison Powder",
+              "Sleep Powder"
             ]
           },
           {
-            "level": 22,
+            "level": 20,
             "attacks": [
-              "Magical Leaf"
+              "Seed Bomb"
             ]
           },
           {
-            "level": 26,
+            "level": 25,
             "attacks": [
-              "Natural Gift"
+              "Take Down"
             ]
           },
           {
-            "level": 34,
+            "level": 30,
             "attacks": [
               "Sweet Scent"
             ]
           },
           {
-            "level": 40,
+            "level": 37,
             "attacks": [
-              "Light Screen"
+              "Synthesis"
             ]
           },
           {
-            "level": 46,
+            "level": 44,
             "attacks": [
-              "Body Slam"
+              "Worry Seed"
             ]
           },
           {
-            "level": 54,
+            "level": 51,
             "attacks": [
-              "Safeguard"
+              "Double-Edge"
             ]
           },
           {
-            "level": 60,
-            "attacks": [
-              "Aromatherapy"
-            ]
-          },
-          {
-            "level": 66,
+            "level": 58,
             "attacks": [
               "Solar Beam"
-            ]
-          },
-          {
-            "level": 70,
-            "attacks": [
-              "Petal Blizzard"
             ]
           }
         ],
         "tutorMoves": [
           "Frenzy Plant",
-          "Giga Drain",
           "Grass Pledge",
-          "Iron Tail",
-          "Laser Focus",
-          "Magic Coat",
-          "Outrage",
-          "Seed Bomb",
-          "Snore",
-          "Stomping Tantrum",
-          "Synthesis",
-          "Worry Seed"
+          "Grassy Glide",
+          "Terrain Pulse"
         ],
         "eggMoves": [
-          "Ancient Power",
-          "Aromatherapy",
-          "Body Slam",
-          "Counter",
-          "Flail",
-          "Grass Whistle",
-          "Grassy Terrain",
-          "Heal Pulse",
+          "Curse",
           "Ingrain",
-          "Leaf Storm",
-          "Leech Seed",
           "Nature Power",
-          "Refresh",
-          "Vine Whip",
-          "Wring Out"
+          "Petal Dance",
+          "Skull Bash",
+          "Toxic"
         ],
-        "tmMoves8": [],
-        "trMoves": [],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Magical Leaf",
+          "Solar Beam",
+          "Light Screen",
+          "Safeguard",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Giga Drain",
+          "Charm",
+          "Attract",
+          "Sunny Day",
+          "Facade",
+          "Helping Hand",
+          "Weather Ball",
+          "Bullet Seed",
+          "Venoshock",
+          "Round",
+          "Bulldoze",
+          "Grassy Terrain",
+          "False Swipe",
+          "Stomping Tantrum"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Body Slam",
+          "Earthquake",
+          "Amnesia",
+          "Substitute",
+          "Sludge Bomb",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Seed Bomb",
+          "Energy Ball",
+          "Earth Power",
+          "Leaf Storm",
+          "Power Whip",
+          "Grass Knot",
+          "Work Up"
+        ],
         "hmMoves": [],
         "transferMoves": [
-          "Bullet Seed",
+          "Bide",
+          "Bind",
+          "Block",
           "Captivate",
-          "Curse",
+          "Celebrate",
+          "Confide",
           "Cut",
-          "Detect",
-          "Double-Edge",
-          "Endure",
+          "Defense Curl",
+          "Double Team",
+          "Echoed Voice",
           "Flash",
+          "Frustration",
           "Fury Cutter",
+          "Grass Whistle",
           "Headbutt",
+          "Hidden Power",
+          "Knock Off",
+          "Mega Drain",
           "Mimic",
           "Mud-Slap",
+          "Natural Gift",
+          "Rage",
+          "Razor Wind",
+          "Reflect",
+          "Return",
+          "Roar",
           "Rock Smash",
           "Secret Power",
-          "Strength"
+          "Sludge",
+          "Strength",
+          "String Shot",
+          "Swagger"
         ],
         "tmMoves7": [
           "Work Up",
+          "Roar",
           "Toxic",
+          "Venoshock",
           "Hidden Power",
           "Sunny Day",
           "Hyper Beam",
@@ -173,7 +198,7 @@
           "Earthquake",
           "Return",
           "Double Team",
-          "Reflect",
+          "Sludge Bomb",
           "Facade",
           "Rest",
           "Attract",
@@ -183,7 +208,6 @@
           "Giga Impact",
           "Swords Dance",
           "Bulldoze",
-          "Dragon Tail",
           "Grass Knot",
           "Swagger",
           "Sleep Talk",
@@ -192,7 +216,9 @@
           "Confide"
         ],
         "tmMoves6": [
+          "Roar",
           "Toxic",
+          "Venoshock",
           "Hidden Power",
           "Sunny Day",
           "Hyper Beam",
@@ -204,7 +230,7 @@
           "Earthquake",
           "Return",
           "Double Team",
-          "Reflect",
+          "Sludge Bomb",
           "Facade",
           "Rest",
           "Attract",
@@ -215,7 +241,6 @@
           "Flash",
           "Swords Dance",
           "Bulldoze",
-          "Dragon Tail",
           "Grass Knot",
           "Swagger",
           "Sleep Talk",
@@ -225,7 +250,9 @@
           "Confide"
         ],
         "tmMoves5": [
+          "Roar",
           "Toxic",
+          "Venoshock",
           "Hidden Power",
           "Sunny Day",
           "Hyper Beam",
@@ -237,7 +264,7 @@
           "Earthquake",
           "Return",
           "Double Team",
-          "Reflect",
+          "Sludge Bomb",
           "Facade",
           "Rest",
           "Attract",
@@ -248,29 +275,26 @@
           "Flash",
           "Swords Dance",
           "Bulldoze",
-          "Dragon Tail",
           "Grass Knot",
           "Swagger",
           "Substitute",
           "Rock Smash"
         ],
         "tmMoves4": [
+          "Roar",
           "Toxic",
           "Bullet Seed",
           "Hidden Power",
           "Sunny Day",
           "Hyper Beam",
-          "Light Screen",
           "Protect",
           "Giga Drain",
-          "Safeguard",
           "Frustration",
           "Solar Beam",
-          "Iron Tail",
           "Earthquake",
           "Return",
           "Double Team",
-          "Reflect",
+          "Sludge Bomb",
           "Facade",
           "Secret Power",
           "Rest",
@@ -288,22 +312,20 @@
           "Substitute"
         ],
         "tmMoves3": [
+          "Roar",
           "Toxic",
           "Bullet Seed",
           "Hidden Power",
           "Sunny Day",
           "Hyper Beam",
-          "Light Screen",
           "Protect",
           "Giga Drain",
-          "Safeguard",
           "Frustration",
           "Solar Beam",
-          "Iron Tail",
           "Earthquake",
           "Return",
           "Double Team",
-          "Reflect",
+          "Sludge Bomb",
           "Facade",
           "Secret Power",
           "Rest",
@@ -312,8 +334,8 @@
         "tmMoves2": [
           "Headbutt",
           "Curse",
+          "Roar",
           "Toxic",
-          "Rock Smash",
           "Hidden Power",
           "Sunny Day",
           "Sweet Scent",
@@ -324,28 +346,41 @@
           "Endure",
           "Frustration",
           "Solar Beam",
-          "Iron Tail",
-          "Earthquake",
           "Return",
           "Mud-Slap",
           "Double Team",
           "Swagger",
           "Sleep Talk",
-          "Detect",
+          "Defense Curl",
           "Rest",
           "Attract",
           "Fury Cutter"
         ],
-        "tmMoves1": [],
+        "tmMoves1": [
+          "Swords Dance",
+          "Toxic",
+          "Body Slam",
+          "Take Down",
+          "Double-Edge",
+          "Hyper Beam",
+          "Rage",
+          "Mega Drain",
+          "Solar Beam",
+          "Mimic",
+          "Double Team",
+          "Reflect",
+          "Bide",
+          "Rest",
+          "Substitute"
+        ],
         "tmMoves": []
       },
       "abilities": {
         "abilities": [
-          "Overgrow",
-          "ShieldDust"
+          "Overgrow"
         ],
         "hiddenAbilities": [
-          "Filter"
+          "Chlorophyll"
         ]
       },
       "movement": {
@@ -356,8 +391,8 @@
         "ridingOffsets": {
           "standing": {
             "x": 0.0,
-            "y": -1.7,
-            "z": -0.65
+            "y": -1.5,
+            "z": 0.45
           },
           "moving": {
             "x": 0,
@@ -373,15 +408,17 @@
       },
       "battleStats": {
         "hp": 80,
-        "attack": 82,
-        "defense": 100,
-        "specialAttack": 83,
+        "attack": 92,
+        "defense": 83,
+        "specialAttack": 100,
         "specialDefense": 100,
         "speed": 80
       },
-      "tags": [],
+      "tags": [
+        "day_care_selectable"
+      ],
       "spawn": {
-        "baseExp": 208,
+        "baseExp": 236,
         "baseFriendship": 70,
         "spawnLevel": 32,
         "spawnLevelRange": 18,
@@ -399,29 +436,32 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/154_meganium/all/base/none/texture.png",
-              "sprite": "pixelmon:pokemon/154_meganium/all/base/none/sprite.png",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/154_meganium/all/base/none/model.pqc"
-                ]
+                  "pixelmon:pokemon/003_venusaur/all/base/none/model.pqc"
+                ],
+                "yRotation": 24.12
               },
               "sounds": [
-                "pixelmon.mob.meganium"
+                "pixelmon.mob.venusaur",
+                "pixelmon.mob.venusaur",
+                "pixelmon.mob.venusaur"
               ]
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/154_meganium/all/base/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/154_meganium/all/base/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
             },
             {
               "name": "zombie",
-              "texture": "pixelmon:pokemon/154_meganium/all/base/zombie/texture.png",
-              "sprite": "pixelmon:pokemon/154_meganium/all/base/zombie/sprite.png",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/zombie/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/zombie/sprite.png",
               "particle": ""
             }
           ]
@@ -432,29 +472,124 @@
         "GRASS"
       ],
       "types": [
-        "GRASS"
+        "GRASS",
+        "POISON"
       ],
       "preEvolutions": [
-        "Bayleef",
-        "Chikorita"
+        "Ivysaur",
+        "Bulbasaur"
       ],
       "defaultBaseForm": "",
-      "megaItems": [],
-      "megas": [],
+      "megaItems": [
+        "pixelmon:venusaurite"
+      ],
+      "megas": [
+        "mega"
+      ],
       "gigantamax": {
-        "canHaveFactor": false,
-        "canGigantamax": false
+        "canHaveFactor": true,
+        "canGigantamax": true,
+        "form": "gmax",
+        "move": "G-Max Vine Lash"
       },
       "eggCycles": 21,
-      "weight": 100.5,
+      "weight": 100.0,
       "catchRate": 45,
       "malePercentage": 87,
       "evolutions": [],
       "evYields": {
-        "defense": 1,
-        "specialDefense": 2
+        "specialAttack": 2,
+        "specialDefense": 1
       }
+    },
+    {
+      "name": "mega",
+      "tags": [
+        "temp"
+      ],
+      "dimensions": {
+        "height": 2.1,
+        "width": 2.3,
+        "length": 2.3
+      },
+      "abilities": {
+        "abilities": [
+          "ThickFat"
+        ]
+      },
+      "battleStats": {
+        "hp": 80,
+        "attack": 110,
+        "defense": 123,
+        "specialAttack": 122,
+        "specialDefense": 120,
+        "speed": 80
+      },
+      "weight": 155.5,
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/none/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/003_venusaur/all/mega/none/model.pqc"
+                ],
+                "yRotation": 24.12
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gmax",
+      "tags": [
+        "temp"
+      ],
+      "dimensions": {
+        "height": 2.1,
+        "width": 3.0,
+        "length": 3.0
+      },
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/003_venusaur/all/gmax/none/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/gmax/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/003_venusaur/all/gmax/none/model.pqc"
+                ],
+                "yRotation": 24.12
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/003_venusaur/all/gmax/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/gmax/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "generation": 2
+  "generation": 1
 }

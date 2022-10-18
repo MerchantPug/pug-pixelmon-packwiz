@@ -34,7 +34,7 @@ hash = "aeac3b464ccc109111033fd04ccc9414e15a2cb18faaf3bdf23dad0836ee0313"
 
 [[files]]
 file = "kubejs/data/pixelmon/drops/raiddrops.json"
-hash = "53f7994c6992fa83a9b31490c01a8b6bdeba2b7e01ea7c76b0d1a95ebf0e55e1"
+hash = "681b34e826da59a7c21935ef579fa55b04055650e3ff39baa75264c2796c204e"
 
 [[files]]
 file = "kubejs/data/pixelmon/moves/bug_buzz.json"
@@ -93,8 +93,44 @@ file = "kubejs/data/pixelmon/moves/x-scissor.json"
 hash = "14bf69cf8408f3b816dd017426f2ae31506bfbe8c09d9e18a8a2231cab0fe814"
 
 [[files]]
+file = "kubejs/data/pixelmon/recipes/honey_bottle.json"
+hash = "7cefdd70a712061ea4740a7e0a3812f540c73e6a0866d7ab5bd8a79db3a69df4"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/quark_tallow_fish.json"
+hash = "0cc91a2c80515e896f914dc1245959483d840c62c30cf4d206c44e05506ecab7"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/quark_tallow_meat.json"
+hash = "3f605b907210c933831a69a3059d3dcdf8e2e3a71b3d9e5aea29d79ea63370c2"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/wishing_piece.json"
+hash = "a8f27acfbd21194fdcf660c5fb954ab32302c6f756983f6a3583913952f0347a"
+
+[[files]]
+file = "kubejs/data/pixelmon/spawning/legendaries/entei.set.json"
+hash = "8c70209aa45a4699dfdf1ab17021637723448535522b91f59734cbe4f3f431b4"
+
+[[files]]
 file = "kubejs/data/pixelmon/spawning/standard/deerling.set.json"
 hash = "e4156aa8aebfa9d8c5b58e537d6662de3b9eb6bac068221c2c0371cda4de0f90"
+
+[[files]]
+file = "kubejs/data/pixelmon/spawning/standard/rotom.set.json"
+hash = "91f44f87d79cc5bd0f759802f69fb8f52699af36caefc76a1e517a3440b390e1"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/003_venusaur.json"
+hash = "bf51c2dc8b61591a59ad9b9d13c829b20b734e9f9b85930cc1e42e6a5f0c129c"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/006_charizard.json"
+hash = "321be16124f478358744430858552c96991666158faf7876a6836733efc7c7c7"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/009_blastoise.json"
+hash = "f38811573318e7e64cb4bd62fd3a12dc116398c97679ee5256eec8a005e1e263"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/023_ekans.json"
@@ -110,7 +146,7 @@ hash = "8cf0c9174f752552f508b7cd403412c58f9a839bdeb1fab67f7b6d7b1fbf8333"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/078_rapidash.json"
-hash = "964acd4ac56e12dc6e52673f2d4f915fc5cd650a80d91989e466279e10206f1c"
+hash = "96b108ab1584ad5e93aa1f3e45b2636ae1f5880ef6e3c14b0413047875d72f3b"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/081_magnemite.json"
@@ -138,15 +174,31 @@ hash = "b42f5e3a184246e68be0c94d9a0f7943cd57f96f52c1e4f910177519197eeebd"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/152_chikorita.json"
-hash = "e38976a333f810f381a8fc59c3ec0a27e7216088082e9407da583d2c98ddf680"
+hash = "3f50269238050f7a76399e1c811998bf51cc774bb998f657fd264f75fc4670f2"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/153_bayleef.json"
-hash = "b7e004ec054676af0082ddfd5aec48a0e38457cc4d118d67978feaf1ab910b39"
+hash = "62cbae270e46a22dab5c3820a8497907fb816a757f40239d6b100e04d1f5f14a"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/154_meganium.json"
-hash = "7c37e3fee6047bf1659871406cd5f1661a07c7b45e1946535ed337c592460b43"
+hash = "cba51e29096092ca4d8246c2c98395e487afc35de69c5505fd1f88bd7f4e4bbd"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/157_typhlosion.json"
+hash = "c7f48a688bf4d4f0f2326bc2ddea83aaa01151fdad37370306d789db5487162d"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/158_totodile.json"
+hash = "8a51cb0312d762fd97cf245b611b18f221648d46bf4bf97d1718c042110ec0e8"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/159_croconaw.json"
+hash = "f610c3c11c3be9c2f0fcf4b69d30654874157768afe23932ddeaa6260eca3d83"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/160_feraligatr.json"
+hash = "4689261f1e4715fa018d9f71fc9841dc18046d237e411a9ac490f0f827b38613"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/165_ledyba.json"
@@ -203,6 +255,14 @@ hash = "e0c647ef5633132a6c0d61365298324ebe3515f0a420da1f526231ac2e965162"
 [[files]]
 file = "kubejs/data/pixelmon/species/239_elekid.json"
 hash = "369f2206d034be53489138d986729136a4e34f99c973c93ad14500eaf3b8bcfa"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/254_sceptile.json"
+hash = "32561b27f14fce74df1746d241ebeea0d924e29b0fc320530bad334f95139c5c"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/257_blaziken.json"
+hash = "99ad0173a116b8edf95dc0f5098b12f6a6465748cdff16de4f5475412c1bb8cd"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/265_wurmple.json"
@@ -285,8 +345,32 @@ file = "kubejs/data/pixelmon/species/362_glalie.json"
 hash = "90997b3608da09b03663fabb2642b03d6407383279ac0bbc73c146f29c9dfebc"
 
 [[files]]
+file = "kubejs/data/pixelmon/species/387_turtwig.json"
+hash = "c7ca448dec6db184757e32d0b0311d046c769b6db6a4f24c486de00aca95dcd5"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/388_grotle.json"
+hash = "e757bb9567f281de00c4a9524a826745893b0bd1b75b4604749e7844dba34758"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/389_torterra.json"
+hash = "8c8fb8181f4fedc67eb835254a61120e0c27d914d0b5e180b50b9e185f6fe67d"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/390_chimchar.json"
+hash = "b39c01b1e2bc25d59d97914e5696149adda97b958d41b1aa657aac7923bfb6ba"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/391_monferno.json"
+hash = "3c3bc123d27becdd5ec2343b75bfce28abb8141b1f3d9ce01e227cda7edb1860"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/392_infernape.json"
+hash = "f3327fd0ee1c1f4feb2c0ae70cecf457df21eddaa07fa365b8d539859f99eb8d"
+
+[[files]]
 file = "kubejs/data/pixelmon/species/395_empoleon.json"
-hash = "ad5f6e5f5661b5705ea8fc3209e9ec3382c06f4603a8311991f67bdf5cec2181"
+hash = "afad1fe1f8364ad376e780b98d54f229dca37cde0e32d8aa1089cc727d8ac108"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/404_luxio.json"
@@ -306,7 +390,7 @@ hash = "68560dfd1987446ffb872ef0b85be72fa78f9335300dae8c455fb6c9c696beea"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/413_wormadam.json"
-hash = "20ddbf72983f892982156cda4f41642b5848b8a554c39488b3f3fdc7a878c0bc"
+hash = "5a5310ab0a43e14836f51b0d40c77e06f62ca1d9d9349d5ca5d2ba795b7a45c8"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/414_mothim.json"
@@ -369,6 +453,18 @@ file = "kubejs/data/pixelmon/species/486_regigigas.json"
 hash = "d9608d5d32a475b8746a7f1da3dca0abb9658971b65b5a5ee40591f7f083f940"
 
 [[files]]
+file = "kubejs/data/pixelmon/species/497_serperior.json"
+hash = "c5d6fdbae9223d017ba2bd418cc201692e01c3ccc22cb5279c1bbf756868b561"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/500_emboar.json"
+hash = "92020a205a8fdd2bdc9021abfbe5d69d2933d0706c3db533b4f94c23e974124b"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/503_samurott.json"
+hash = "c07502f8fc5621053e12b8b8255901c933fff2e5311f7188ecde0fe510f39115"
+
+[[files]]
 file = "kubejs/data/pixelmon/species/504_patrat.json"
 hash = "9e110f54616fbfc0da2efa763ea53443dafd83ef0fd5400f2a2990bc7c590af3"
 
@@ -397,6 +493,18 @@ file = "kubejs/data/pixelmon/species/615_cryogonal.json"
 hash = "e3549121f35ec621d7ecc6d1a0ff8f7fdd3faa104a55b9503f958d78b2ba7d04"
 
 [[files]]
+file = "kubejs/data/pixelmon/species/650_chespin.json"
+hash = "d44941e5b8ce8b84f4c5d88fb0ee26df610f22f0bfc9dbff288243e424d2216b"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/651_quilladin.json"
+hash = "54040eea5ac235da55d2f3300b046ddc9e47f784e6350c14fe77ce95078f6559"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/652_chesnaught.json"
+hash = "5bfbfecb14dc44fa9fc79822f8ebd04c2c5dcb41b1f314239294d94e6fa31a17"
+
+[[files]]
 file = "kubejs/data/pixelmon/species/653_fennekin.json"
 hash = "955318706fe494a8d0f26d0c0ead0efaf619920e0f0b7a37d0f9d8f2cd7cee3f"
 
@@ -406,7 +514,11 @@ hash = "14a3adb8e75f22a4737942dcef602e4ad78c80529b071eee07bedfa356a148e4"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/655_delphox.json"
-hash = "1f8ebed772226f09fcad3ebf52fd81a9fd178cc6cfe138631db2d277abe9d00b"
+hash = "6320174bc070df6cab223bb910c9e678e1a2be1b52a2798b1d1310d6a69d9b5a"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/658_greninja.json"
+hash = "87ea3a1544f2a0ebc5b43fc4755bf77c0cdf0c34873e5cfb1c613981247802af"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/690_skrelp.json"
@@ -437,6 +549,18 @@ file = "kubejs/data/pixelmon/species/713_avalugg.json"
 hash = "19c175473699ef8265c3d2633c9b1050c891d0babe93e8f0841f2ccea747f478"
 
 [[files]]
+file = "kubejs/data/pixelmon/species/724_decidueye.json"
+hash = "8dcda7fd9ab86bcff90fe9b641f275b913f1ed42d47c9265df836808cacaf89b"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/727_incineroar.json"
+hash = "17a36656be1599eab86e4543b44204c314f8f2b9fdcd392de9dd1795bbbdb17f"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/730_primarina.json"
+hash = "2cbe3a2ccf0259e88b8d6d25ac319021f5c630cbe92832c7472259173a6d10ac"
+
+[[files]]
 file = "kubejs/data/pixelmon/species/754_lurantis.json"
 hash = "c46d2043e7ac394b0633cf310afc34dda87d9e205a69bc6e29fe028857eb0015"
 
@@ -445,12 +569,24 @@ file = "kubejs/data/pixelmon/species/775_komala.json"
 hash = "4df72501cb001df200f52a93b5875186b4e1a830b62f4163b3873e1bca83ce06"
 
 [[files]]
+file = "kubejs/data/pixelmon/species/812_rillaboom.json"
+hash = "88452cebe14e3647602ed6226d924fdff5b47bedc5fa6967901e1725b36aaebe"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/815_cinderace.json"
+hash = "5b64efebe544fc38670fd54b75656024753bb890b854fde49e34cfe536109c88"
+
+[[files]]
+file = "kubejs/data/pixelmon/species/818_inteleon.json"
+hash = "8102e29cc4a65c8c701098c72779f01e670713e091f0ea14fc444c56277ec5da"
+
+[[files]]
 file = "kubejs/data/pixelmon/species/825_dottler.json"
 hash = "4c331e9a4218174ba78e992009ad1409977968c82793a2d94845dfe6e7badf1f"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/826_orbeetle.json"
-hash = "58573582762f5d44dfea6c62c31027e0452395132f8f3233ccafeb2f3bf5e454"
+hash = "151b346853c365a03505522aea69dcebaeefbaa7ea3ec54b049d13a3f9d570ce"
 
 [[files]]
 file = "kubejs/data/pixelmon/species/830_eldegoss.json"
@@ -475,6 +611,22 @@ hash = "fccf0f1ce2003250d946a2717f4f991c5e28af94d631df265d5b132a3a5d3184"
 [[files]]
 file = "kubejs/data/pixelmon/species/873_frosmoth.json"
 hash = "f9d0d247a57a5808c883fab24bbddbf5dd8b6803e38a5744612ca0bdf690ee3b"
+
+[[files]]
+file = "kubejs/data/pixelmon/tags/items/dynite_armorite.json"
+hash = "a5cfe1f9e2c396efdef005768727f4dfa606336a6ae8ddc1d892afc52a492e50"
+
+[[files]]
+file = "kubejs/data/pixelmon/tags/items/fish.json"
+hash = "15c8a5f8bb2b6dcd00b40fcb2390938a25fe672b983e3a4c18348f991153f9e5"
+
+[[files]]
+file = "kubejs/data/pixelmon/tags/items/meat.json"
+hash = "4ba657ab8ad70127ce19dcadd632039d44bc612b69e251ccb18db067a6c18a42"
+
+[[files]]
+file = "kubejs/data/pixelmon/tags/items/mints.json"
+hash = "723d9a8693d9e76061615d2107b3cf0705582c7a8f17a9fb47354600804ff361"
 
 [[files]]
 file = "kubejs/data/pug/tags/items/leatherlike.json"
@@ -600,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "04b928d8be54ab152fc2ddbe278bf7ce08353de099145f7ffb1a1b4ff33d11a7"
+hash = "bc41332a54157c3753a817a7e4a2c77653bba74117d04f7d7d2345db6ca6ded1"
 metafile = true
 
 [[files]]
@@ -615,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "567a4034addb3fe7297c39bb327d6a3a7cdcc2fa53814a78da7da9cad7272904"
+hash = "bc21688a1892a9ba10e8ea0fbb40fde5f77ab2fef15efe2e9c4f7ea6979c6ad5"
 metafile = true
 
 [[files]]
@@ -630,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "60ebd720a15bcf1dd93d02cf18f177b4d5cff8345c9c254496be4d2336542344"
+hash = "d22dccb2507f8d0c327a7e92bdbc9dd63a79a2e78641f613bd31b00c30c83ea1"
 metafile = true
 
 [[files]]
@@ -650,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "92bce5e3c99716b9754cd79b82dcb083812578f39199a11aa16b464ef3fbf91d"
+hash = "563190421da2c2f9c637f54c698458c3000f2cdc005bd80cdf6e090345254f56"
 metafile = true
 
 [[files]]
@@ -680,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/pixelmon.pw.toml"
-hash = "84eb44f2e25bea5ffa774f5c5362f3ffe46b1c3c6d50fecb497b277b7fd43e71"
+hash = "286eca40d2382cf10c6325aa1fe4fe5f720b6b0c4b814b654206f9ccc48366cd"
 metafile = true
 
 [[files]]
@@ -715,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0063f7a56b0849435d9e6f287c18c9318d4b16528e224ba0553a1ea8b01c703c"
+hash = "3756f6af300737be523e77d5ea3de2c63915a978978cbe6b4f225c1b04ccdda7"
 metafile = true
 
 [[files]]
