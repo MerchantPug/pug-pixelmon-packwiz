@@ -372,12 +372,12 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 80,
-        "attack": 82,
-        "defense": 100,
+        "hp": 90,
+        "attack": 72,
+        "defense": 120,
         "specialAttack": 83,
-        "specialDefense": 100,
-        "speed": 80
+        "specialDefense": 105,
+        "speed": 65
       },
       "tags": [],
       "spawn": {

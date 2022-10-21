@@ -115,7 +115,8 @@
           "Bounce",
           "Round",
           "Mystical Fire",
-          "Smart Strike"
+          "Smart Strike",
+          "U-Turn"
         ],
         "trMoves": [
           "Swords Dance",
@@ -139,7 +140,8 @@
           "Drill Run",
           "Play Rough",
           "High Horsepower",
-          "Throat Chop"
+          "Throat Chop",
+          "Blaze Kick"
         ],
         "hmMoves": [],
         "transferMoves": [
@@ -341,7 +343,7 @@
       },
       "abilities": {
         "abilities": [
-          "RunAway",
+          "Drought",
           "FlashFire"
         ],
         "hiddenAbilities": [

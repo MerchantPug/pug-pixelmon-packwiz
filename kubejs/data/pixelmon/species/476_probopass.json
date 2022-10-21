@@ -319,7 +319,7 @@
       },
       "abilities": {
         "abilities": [
-          "Sturdy",
+          "SandStream",
           "MagnetPull"
         ],
         "hiddenAbilities": [

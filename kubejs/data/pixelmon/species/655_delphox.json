@@ -257,7 +257,8 @@
       },
       "abilities": {
         "abilities": [
-          "Blaze"
+          "Blaze",
+          "Magician"
         ],
         "hiddenAbilities": [
           "MagicGuard"

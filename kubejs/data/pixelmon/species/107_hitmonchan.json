@@ -1,196 +1,217 @@
 {
-  "name": "Feraligatr",
-  "dex": 160,
+  "name": "Hitmonchan",
+  "dex": 107,
   "defaultForms": [
     ""
   ],
   "forms": [
     {
       "name": "",
-      "experienceGroup": "MEDIUM_SLOW",
+      "experienceGroup": "MEDIUM_FAST",
       "dimensions": {
-        "height": 2.3,
-        "width": 1.6,
+        "height": 1.4,
+        "width": 1.0,
         "length": 1,
-        "eyeHeight": 2.3,
-        "hoverHeight": 2.3
+        "eyeHeight": 1.4,
+        "hoverHeight": 1.4
       },
       "moves": {
         "levelUpMoves": [
           {
             "level": 0,
             "attacks": [
-              "Agility",
-              "Leer",
-              "Rage",
-              "Scratch",
-              "Water Gun"
+              "Bullet Punch",
+              "Drain Punch",
+              "Fake Out",
+              "Feint",
+              "Focus Energy",
+              "Helping Hand",
+              "Tackle",
+              "Vacuum Wave"
             ]
           },
           {
-            "level": 6,
+            "level": 4,
             "attacks": [
-              "Water Gun"
+              "Mach Punch"
             ]
           },
           {
             "level": 8,
             "attacks": [
-              "Rage"
+              "Power-Up Punch"
             ]
           },
           {
-            "level": 13,
+            "level": 12,
             "attacks": [
-              "Bite"
+              "Detect"
             ]
           },
           {
-            "level": 15,
+            "level": 16,
             "attacks": [
-              "Scary Face"
+              "Revenge"
             ]
           },
           {
             "level": 21,
             "attacks": [
-              "Ice Fang"
+              "Quick Guard"
             ]
           },
           {
             "level": 24,
             "attacks": [
-              "Flail"
+              "Fire Punch",
+              "Ice Punch",
+              "Thunder Punch"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Agility"
             ]
           },
           {
             "level": 32,
             "attacks": [
-              "Crunch"
+              "Mega Punch"
             ]
           },
           {
-            "level": 37,
+            "level": 36,
             "attacks": [
-              "Chip Away"
+              "Close Combat"
             ]
           },
           {
-            "level": 45,
+            "level": 40,
             "attacks": [
-              "Slash"
+              "Counter"
             ]
           },
           {
-            "level": 50,
+            "level": 44,
             "attacks": [
-              "Screech"
+              "Focus Punch"
             ]
           },
           {
-            "level": 58,
+            "level": 48,
             "attacks": [
-              "Thrash"
+              "Meteor Mash"
             ]
           },
           {
-            "level": 63,
+            "level": 52,
             "attacks": [
-              "Aqua Tail"
-            ]
-          },
-          {
-            "level": 71,
-            "attacks": [
-              "Superpower"
-            ]
-          },
-          {
-            "level": 76,
-            "attacks": [
-              "Hydro Pump"
+              "Shadow Punch"
             ]
           }
         ],
         "tutorMoves": [
-          "Aqua Tail",
-          "Block",
-          "Dragon Pulse",
-          "Focus Punch",
-          "Hydro Cannon",
-          "Ice Punch",
-          "Icy Wind",
-          "Iron Tail",
-          "Liquidation",
-          "Low Kick",
-          "Outrage",
-          "Snore",
-          "Spite",
-          "Superpower",
-          "Uproar",
-          "Water Pledge",
-          "Water Pulse",
-          "Knock Off",
-          "Flip Turn"
+          "Coaching"
         ],
         "eggMoves": [
-          "Ancient Power",
-          "Aqua Jet",
-          "Block",
-          "Crunch",
-          "Dragon Dance",
-          "Fake Tears",
-          "Flatter",
-          "Hydro Pump",
-          "Ice Punch",
-          "Metal Claw",
-          "Mud Sport",
-          "Thrash",
-          "Water Pulse",
-          "Water Sport"
+          "Bullet Punch",
+          "Counter",
+          "Feint",
+          "High Jump Kick",
+          "Mach Punch",
+          "Mind Reader",
+          "Rapid Spin",
+          "Vacuum Wave"
         ],
-        "tmMoves8": [],
-        "trMoves": [],
+        "tmMoves8": [
+          "Mega Punch",
+          "Mega Kick",
+          "Fire Punch",
+          "Ice Punch",
+          "Thunder Punch",
+          "Rest",
+          "Rock Slide",
+          "Thief",
+          "Snore",
+          "Protect",
+          "Attract",
+          "Rain Dance",
+          "Sunny Day",
+          "Facade",
+          "Swift",
+          "Helping Hand",
+          "Revenge",
+          "Brick Break",
+          "Rock Tomb",
+          "Fling",
+          "Drain Punch",
+          "Low Sweep",
+          "Round",
+          "Retaliate",
+          "Bulldoze"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Low Kick",
+          "Earthquake",
+          "Agility",
+          "Focus Energy",
+          "Metronome",
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Uproar",
+          "Bulk Up",
+          "Close Combat",
+          "Aura Sphere",
+          "Focus Blast",
+          "Stone Edge",
+          "Work Up",
+          "Throat Chop"
+        ],
         "hmMoves": [],
         "transferMoves": [
-          "Avalanche",
-          "Body Slam",
+          "Bide",
           "Captivate",
-          "Counter",
+          "Comet Punch",
+          "Confide",
+          "Covet",
           "Curse",
-          "Cut",
-          "Detect",
-          "Dig",
-          "Dive",
+          "Dizzy Punch",
+          "Double Team",
           "Double-Edge",
           "Dynamic Punch",
-          "Endure",
-          "Fury Cutter",
+          "Foresight",
+          "Frustration",
           "Headbutt",
-          "Hone Claws",
-          "Mega Kick",
-          "Mega Punch",
+          "Hidden Power",
+          "Laser Focus",
+          "Leer",
           "Mimic",
           "Mud-Slap",
           "Natural Gift",
-          "Power-Up Punch",
-          "Razor Wind",
+          "Pursuit",
+          "Rage",
+          "Return",
           "Rock Smash",
+          "Role Play",
           "Secret Power",
           "Seismic Toss",
+          "Skull Bash",
+          "Sky Uppercut",
           "Strength",
-          "Whirlpool"
+          "Submission",
+          "Swagger",
+          "Take Down",
+          "Toxic"
         ],
         "tmMoves7": [
           "Work Up",
-          "Dragon Claw",
-          "Roar",
           "Toxic",
-          "Hail",
+          "Bulk Up",
           "Hidden Power",
-          "Ice Beam",
-          "Blizzard",
-          "Hyper Beam",
+          "Sunny Day",
           "Protect",
           "Rain Dance",
           "Frustration",
@@ -199,60 +220,47 @@
           "Brick Break",
           "Double Team",
           "Rock Tomb",
-          "Aerial Ace",
           "Facade",
           "Rest",
           "Attract",
+          "Thief",
+          "Low Sweep",
           "Round",
           "Focus Blast",
-          "Scald",
           "Fling",
-          "Shadow Claw",
-          "Giga Impact",
-          "Swords Dance",
+          "Stone Edge",
           "Bulldoze",
           "Rock Slide",
-          "Dragon Tail",
           "Swagger",
           "Sleep Talk",
           "Substitute",
-          "Surf",
-          "Waterfall",
           "Confide"
         ],
         "tmMoves6": [
-          "Hone Claws",
-          "Dragon Claw",
-          "Roar",
           "Toxic",
-          "Hail",
+          "Bulk Up",
           "Hidden Power",
-          "Ice Beam",
-          "Blizzard",
-          "Hyper Beam",
+          "Sunny Day",
           "Protect",
           "Rain Dance",
           "Frustration",
           "Earthquake",
           "Return",
-          "Dig",
           "Brick Break",
           "Double Team",
           "Rock Tomb",
-          "Aerial Ace",
           "Facade",
           "Rest",
           "Attract",
+          "Thief",
+          "Low Sweep",
           "Round",
           "Focus Blast",
-          "Scald",
           "Fling",
-          "Shadow Claw",
-          "Giga Impact",
-          "Swords Dance",
+          "Retaliate",
+          "Stone Edge",
           "Bulldoze",
           "Rock Slide",
-          "Dragon Tail",
           "Swagger",
           "Sleep Talk",
           "Substitute",
@@ -261,76 +269,59 @@
           "Confide"
         ],
         "tmMoves5": [
-          "Hone Claws",
-          "Dragon Claw",
-          "Roar",
           "Toxic",
-          "Hail",
+          "Bulk Up",
           "Hidden Power",
-          "Ice Beam",
-          "Blizzard",
-          "Hyper Beam",
+          "Sunny Day",
           "Protect",
           "Rain Dance",
           "Frustration",
           "Earthquake",
           "Return",
-          "Dig",
           "Brick Break",
           "Double Team",
           "Rock Tomb",
-          "Aerial Ace",
           "Facade",
           "Rest",
           "Attract",
+          "Thief",
+          "Low Sweep",
           "Round",
           "Focus Blast",
-          "Scald",
           "Fling",
-          "Shadow Claw",
-          "Giga Impact",
-          "Swords Dance",
+          "Retaliate",
+          "Stone Edge",
           "Bulldoze",
           "Rock Slide",
-          "Dragon Tail",
+          "Work Up",
           "Swagger",
           "Substitute",
           "Rock Smash"
         ],
         "tmMoves4": [
           "Focus Punch",
-          "Dragon Claw",
-          "Water Pulse",
-          "Roar",
           "Toxic",
-          "Hail",
+          "Bulk Up",
           "Hidden Power",
-          "Ice Beam",
-          "Blizzard",
-          "Hyper Beam",
+          "Sunny Day",
           "Protect",
           "Rain Dance",
           "Frustration",
-          "Iron Tail",
           "Earthquake",
           "Return",
-          "Dig",
           "Brick Break",
           "Double Team",
           "Rock Tomb",
-          "Aerial Ace",
           "Facade",
           "Secret Power",
           "Rest",
           "Attract",
+          "Thief",
           "Focus Blast",
           "Fling",
           "Endure",
-          "Dragon Pulse",
-          "Shadow Claw",
-          "Giga Impact",
-          "Avalanche",
-          "Swords Dance",
+          "Drain Punch",
+          "Stone Edge",
           "Captivate",
           "Rock Slide",
           "Sleep Talk",
@@ -340,89 +331,86 @@
         ],
         "tmMoves3": [
           "Focus Punch",
-          "Dragon Claw",
-          "Water Pulse",
-          "Roar",
           "Toxic",
-          "Hail",
+          "Bulk Up",
           "Hidden Power",
-          "Ice Beam",
-          "Blizzard",
-          "Hyper Beam",
+          "Sunny Day",
           "Protect",
           "Rain Dance",
           "Frustration",
-          "Iron Tail",
           "Earthquake",
           "Return",
-          "Dig",
           "Brick Break",
           "Double Team",
-          "Aerial Ace",
+          "Rock Tomb",
           "Facade",
           "Secret Power",
           "Rest",
-          "Attract"
+          "Attract",
+          "Thief"
         ],
         "tmMoves2": [
           "Dynamic Punch",
           "Headbutt",
           "Curse",
-          "Roar",
           "Toxic",
           "Rock Smash",
           "Hidden Power",
+          "Sunny Day",
           "Snore",
-          "Blizzard",
-          "Hyper Beam",
-          "Icy Wind",
           "Protect",
-          "Rain Dance",
           "Endure",
           "Frustration",
-          "Iron Tail",
-          "Earthquake",
           "Return",
-          "Dig",
           "Mud-Slap",
           "Double Team",
           "Ice Punch",
           "Swagger",
           "Sleep Talk",
+          "Swift",
+          "Thunder Punch",
           "Detect",
           "Rest",
           "Attract",
-          "Fury Cutter"
+          "Thief",
+          "Fire Punch"
         ],
-        "tmMoves1": [],
+        "tmMoves1": [
+          "Mega Punch",
+          "Mega Kick",
+          "Toxic",
+          "Body Slam",
+          "Take Down",
+          "Double-Edge",
+          "Submission",
+          "Counter",
+          "Seismic Toss",
+          "Rage",
+          "Mimic",
+          "Double Team",
+          "Bide",
+          "Metronome",
+          "Swift",
+          "Skull Bash",
+          "Rest",
+          "Substitute"
+        ],
         "tmMoves": []
       },
       "abilities": {
         "abilities": [
-          "Torrent",
-          "RoughSkin"
+          "KeenEye",
+          "IronFist"
         ],
         "hiddenAbilities": [
-          "SheerForce"
+          "InnerFocus"
         ]
       },
       "movement": {
-        "rideable": true,
+        "rideable": false,
         "canFly": false,
         "canSurf": false,
-        "canRideShoulder": false,
-        "ridingOffsets": {
-          "standing": {
-            "x": 0.0,
-            "y": -1.0,
-            "z": 0.05
-          },
-          "moving": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        }
+        "canRideShoulder": false
       },
       "aggression": {
         "timid": 80,
@@ -430,21 +418,21 @@
         "aggressive": 20
       },
       "battleStats": {
-        "hp": 85,
+        "hp": 50,
         "attack": 105,
-        "defense": 110,
-        "specialAttack": 69,
-        "specialDefense": 83,
-        "speed": 83
+        "defense": 79,
+        "specialAttack": 35,
+        "specialDefense": 110,
+        "speed": 76
       },
       "tags": [
         "day_care_selectable"
       ],
       "spawn": {
-        "baseExp": 210,
+        "baseExp": 140,
         "baseFriendship": 70,
-        "spawnLevel": 30,
-        "spawnLevelRange": 20,
+        "spawnLevel": 25,
+        "spawnLevelRange": 25,
         "spawnLocations": [
           "LAND"
         ]
@@ -459,45 +447,40 @@
           "palettes": [
             {
               "name": "none",
-              "texture": "pixelmon:pokemon/160_feraligatr/all/base/none/texture.png",
-              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/none/sprite.png",
+              "texture": "pixelmon:pokemon/107_hitmonchan/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/107_hitmonchan/all/base/none/sprite.png",
               "particle": "",
               "modelLocator": {
                 "factoryType": "NORMAL",
                 "pqc": [
-                  "pixelmon:pokemon/160_feraligatr/all/base/none/model.pqc"
-                ]
+                  "pixelmon:pokemon/107_hitmonchan/all/base/none/model.pqc"
+                ],
+                "yRotation": 24.1
               },
               "sounds": [
-                "pixelmon.mob.feraligatr",
-                "pixelmon.mob.feraligatr"
+                "pixelmon.mob.hitmonchan",
+                "pixelmon.mob.hitmonchan",
+                "pixelmon.mob.hitmonchan",
+                "pixelmon.mob.hitmonchan"
               ]
             },
             {
               "name": "shiny",
-              "texture": "pixelmon:pokemon/160_feraligatr/all/base/shiny/texture.png",
-              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/shiny/sprite.png",
+              "texture": "pixelmon:pokemon/107_hitmonchan/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/107_hitmonchan/all/base/shiny/sprite.png",
               "particle": "arcanery:shiny"
-            },
-            {
-              "name": "zombie",
-              "texture": "pixelmon:pokemon/160_feraligatr/all/base/zombie/texture.png",
-              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/zombie/sprite.png",
-              "particle": ""
             }
           ]
         }
       ],
       "eggGroups": [
-        "MONSTER",
-        "WATER_ONE"
+        "HUMAN_LIKE"
       ],
       "types": [
-        "WATER"
+        "FIGHTING"
       ],
       "preEvolutions": [
-        "Croconaw",
-        "Totodile"
+        "Tyrogue"
       ],
       "defaultBaseForm": "",
       "megaItems": [],
@@ -506,16 +489,15 @@
         "canHaveFactor": false,
         "canGigantamax": false
       },
-      "eggCycles": 21,
-      "weight": 88.8,
+      "eggCycles": 26,
+      "weight": 50.2,
       "catchRate": 45,
-      "malePercentage": 87,
+      "malePercentage": 100,
       "evolutions": [],
       "evYields": {
-        "attack": 2,
-        "defense": 1
+        "specialDefense": 2
       }
     }
   ],
-  "generation": 2
+  "generation": 1
 }
